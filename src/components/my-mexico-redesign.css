@@ -1401,32 +1401,52 @@ button.sim-adjust-days-btn:hover,
     margin-block-start: 12px;
   }
 
+  button.mmw-mobile-jump-btn,
+  button.mmw-mobile-jump-link,
   .mmw-mobile-jump-btn,
   .mmw-mobile-jump-link {
     flex: 1;
     min-height: 44px;
-    display: inline-flex;
+    display: inline-flex !important;
     align-items: center;
     justify-content: center;
-    border-radius: 999px;
-    font-family: 'DM Sans', Arial, sans-serif;
-    font-size: 13px;
-    font-weight: 700;
+    border-radius: 999px !important;
+    font-family: 'DM Sans', Arial, sans-serif !important;
+    font-size: 13px !important;
+    font-weight: 700 !important;
     text-decoration: none;
     cursor: pointer;
     filter: none !important;
+    box-shadow: none;
+    padding: 10px 12px !important;
   }
 
+  button.mmw-mobile-jump-btn,
   .mmw-mobile-jump-btn {
-    background: var(--mmw-yellow);
-    color: var(--mmw-ink);
-    border: 1px solid var(--mmw-ink);
+    background: var(--mmw-yellow) !important;
+    color: var(--mmw-ink) !important;
+    border: 1px solid var(--mmw-ink) !important;
   }
 
+  button.mmw-mobile-jump-btn:hover,
+  .mmw-mobile-jump-btn:hover {
+    background: #ffffff !important;
+    color: var(--mmw-ink) !important;
+    filter: none !important;
+  }
+
+  button.mmw-mobile-jump-link,
   .mmw-mobile-jump-link {
-    background: var(--mmw-forest-btn);
-    color: var(--mmw-yellow);
-    border: 1px solid var(--mmw-forest-btn);
+    background: var(--mmw-forest-btn) !important;
+    color: var(--mmw-yellow) !important;
+    border: 1px solid var(--mmw-forest-btn) !important;
+  }
+
+  button.mmw-mobile-jump-link:hover,
+  .mmw-mobile-jump-link:hover {
+    background: var(--mmw-ink) !important;
+    color: #ffffff !important;
+    filter: none !important;
   }
 
   /* Form first, compact photo banner after */
@@ -1615,17 +1635,23 @@ button.sim-adjust-days-btn:hover,
   .mmw-sticky-cta {
     display: flex;
     position: fixed;
-    z-index: 60;
+    z-index: 1000;
     left: 0;
     right: 0;
     bottom: 0;
     gap: 8px;
     padding: 10px 12px calc(10px + env(safe-area-inset-bottom, 0px));
-    background: rgba(247, 244, 233, 0.94);
+    background: rgba(247, 244, 233, 0.96);
     border-block-start: 1px solid rgba(20, 47, 43, 0.12);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     box-shadow: 0 -8px 24px rgba(0, 0, 0, 0.08);
+    pointer-events: auto;
+  }
+
+  .mmw-sticky-cta button {
+    pointer-events: auto;
+    touch-action: manipulation;
   }
 
   .mmw-sticky-cta .mmw-sticky-secondary {
@@ -1649,7 +1675,7 @@ button.sim-adjust-days-btn:hover,
     margin-block-start: 14px;
     padding: 14px 12px;
     border-radius: 12px;
-    scroll-margin-bottom: 5.5rem;
+    scroll-margin-bottom: 6.5rem;
   }
 
   .mmw-drawer-header {

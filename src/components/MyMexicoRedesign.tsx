@@ -772,24 +772,27 @@ export default function MyMexicoRedesign({
     }))
   }
 
-  function handleFormSubmit(e: React.FormEvent) {
-    e.preventDefault()
-    let nextDraft = draft
+  function createGuide() {
     if (draft.experienceIds.length === 0 && displayedExperiences.length > 0) {
-      nextDraft = {
-        ...draft,
+      setDraft(old => ({
+        ...old,
         experienceIds: displayedExperiences.slice(0, 4).map(m => m.id),
-      }
-      setDraft(nextDraft)
+      }))
     }
     setGuideOpen(true)
-    setTimeout(() => {
+    // Defer scroll so the drawer is visible in the DOM before scrolling
+    window.setTimeout(() => {
       guideDrawerRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
-    }, 50)
+    }, 80)
     announce(
-      `Guía creada para ${activeDestination?.title || ''}.`,
-      `Guide created for ${activeDestination?.title || ''}.`
+      `Guía creada para ${activeDestination?.title || destinationQuery || ''}.`,
+      `Guide created for ${activeDestination?.title || destinationQuery || ''}.`
     )
+  }
+
+  function handleFormSubmit(e: React.FormEvent) {
+    e.preventDefault()
+    createGuide()
   }
 
   const isCaribeRegion =
@@ -846,9 +849,9 @@ export default function MyMexicoRedesign({
             )}
           </p>
           <div className="mmw-mobile-jump" aria-label={es ? 'Accesos rápidos' : 'Quick access'}>
-            <a className="mmw-mobile-jump-btn" href="#mmw-experience-creator">
+            <button type="button" className="mmw-mobile-jump-btn" onClick={createGuide}>
               {es ? 'Crear mi guía' : 'Build my guide'}
-            </a>
+            </button>
             <button type="button" className="mmw-mobile-jump-link" onClick={openMarisol}>
               {es ? 'Hablar con Marisol' : 'Talk to Marisol'}
             </button>
@@ -1111,14 +1114,7 @@ export default function MyMexicoRedesign({
         <button type="button" className="mmw-btn-secondary mmw-sticky-secondary" onClick={openMarisol}>
           {es ? 'Marisol' : 'Marisol'}
         </button>
-        <button
-          type="button"
-          className="mmw-btn-primary mmw-sticky-primary"
-          onClick={() => {
-            const form = document.getElementById('mmw-experience-form') as HTMLFormElement | null
-            form?.requestSubmit()
-          }}
-        >
+        <button type="button" className="mmw-btn-primary mmw-sticky-primary" onClick={createGuide}>
           <span>{es ? 'Crear mi guía' : 'Create my guide'}</span>
           <span className="mmw-btn-arrow" aria-hidden="true">
             ↗
