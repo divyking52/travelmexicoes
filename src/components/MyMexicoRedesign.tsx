@@ -798,9 +798,11 @@ export default function MyMexicoRedesign({
       className="mmw-section"
       aria-label={es ? 'Creador de experiencias My México' : 'My México Experience Creator'}
     >
-      {/* SECTION HEADER MATCHING USER MOCKUP */}
+      {/* SECTION HEADER MATCHING USER MOCKUP
+          Use a div (not <header>) so global site `header { display:flex }`
+          rules cannot flatten the vertical text stack. */}
       {showHeader && (
-        <header className="mmw-header">
+        <div className="mmw-header">
           <p className="mmw-header-eyebrow">
             {es ? 'El Personalizador de Experiencias.' : 'The Experience Personalizer.'}
           </p>
@@ -856,7 +858,7 @@ export default function MyMexicoRedesign({
               </>
             )}
           </p>
-        </header>
+        </div>
       )}
 
       {/* Two-Column Split Grid matching user screenshot */}
