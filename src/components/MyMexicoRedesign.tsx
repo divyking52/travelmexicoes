@@ -1,6 +1,5 @@
 "use client"
 import React, { useState, useId, useRef, useEffect } from 'react'
-import './my-mexico-redesign.css'
 import { type Locale } from '@/lib/content'
 import ItinerarySimulation from './ItinerarySimulation'
 import { exportGuidePDF } from '@/lib/pdf-export'
@@ -565,9 +564,11 @@ const DESTINATION_MEDIA: Record<string, DestinationMedia> = {
 export default function MyMexicoRedesign({
   locale,
   catalog,
+  showHeader = true,
 }: {
   locale: Locale
   catalog: Catalog
+  showHeader?: boolean
 }) {
   const es = locale === 'es'
   const baseId = useId()
@@ -797,6 +798,67 @@ export default function MyMexicoRedesign({
       className="mmw-section"
       aria-label={es ? 'Creador de experiencias My México' : 'My México Experience Creator'}
     >
+      {/* SECTION HEADER MATCHING USER MOCKUP */}
+      {showHeader && (
+        <header className="mmw-header">
+          <p className="mmw-header-eyebrow">
+            {es ? 'El Personalizador de Experiencias.' : 'The Experience Personalizer.'}
+          </p>
+          <h1 className="mmw-header-title">
+            <span className="mmw-title-primary">{es ? 'Mi México.' : 'My México.'}</span>{' '}
+            <em className="mmw-title-accent">{es ? 'A Mi Manera.' : 'My Way.'}</em>
+          </h1>
+          <p className="mmw-header-subtitle">
+            {es
+              ? 'Tú eliges lo que te mueve. Haz la experiencia tuya.'
+              : 'You choose the feeling. Make the experience yours.'}
+          </p>
+          <p className="mmw-header-guide">
+            {es ? (
+              <>
+                Crea tu guía de experiencias personalizadas, o{' '}
+                <button
+                  type="button"
+                  className="mmw-marisol-inline-link"
+                  onClick={() => {
+                    setGuideOpen(true)
+                    setTimeout(() => {
+                      guideDrawerRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+                    }, 50)
+                    announce(
+                      'Marisol: He preparado sugerencias verificadas y la simulación interactiva abajo.',
+                      'Marisol: I have prepared verified suggestions and the interactive simulation below.'
+                    )
+                  }}
+                >
+                  habla con Marisol.
+                </button>
+              </>
+            ) : (
+              <>
+                Create your guide to personalized experiences, or talk to{' '}
+                <button
+                  type="button"
+                  className="mmw-marisol-inline-link"
+                  onClick={() => {
+                    setGuideOpen(true)
+                    setTimeout(() => {
+                      guideDrawerRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+                    }, 50)
+                    announce(
+                      'Marisol: He preparado sugerencias verificadas y la simulación interactiva abajo.',
+                      'Marisol: I have prepared verified suggestions and the interactive simulation below.'
+                    )
+                  }}
+                >
+                  Marisol.
+                </button>
+              </>
+            )}
+          </p>
+        </header>
+      )}
+
       {/* Two-Column Split Grid matching user screenshot */}
       <div className="mmw-grid">
         {/* LEFT COLUMN: Visual Stage with Real Stock Photo */}
