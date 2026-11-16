@@ -1034,7 +1034,10 @@ export default function MyMexicoRedesign({
             {/* Action Buttons matching user screenshot */}
             <div className="mmw-actions-row">
               <button type="submit" className="mmw-btn-primary">
-                {es ? 'Crear mi guía' : 'Create my guide'}
+                <span>{es ? 'Crear mi guía' : 'Create my guide'}</span>
+                <span className="mmw-btn-arrow" aria-hidden="true">
+                  ↗
+                </span>
               </button>
               <button
                 type="button"
