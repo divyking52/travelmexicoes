@@ -600,6 +600,19 @@ export default function MyMexicoRedesign({
   const [customTypedDestination, setCustomTypedDestination] = useState<string>('')
   const [guideOpen, setGuideOpen] = useState<boolean>(false)
   const [toast, setToast] = useState<string>('')
+  const [showAllPills, setShowAllPills] = useState<boolean>(false)
+  const MOBILE_PILL_PREVIEW = 8
+
+  const openMarisol = () => {
+    setGuideOpen(true)
+    setTimeout(() => {
+      guideDrawerRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    }, 50)
+    announce(
+      'Marisol: He preparado sugerencias verificadas y la simulación interactiva abajo.',
+      'Marisol: I have prepared verified suggestions and the interactive simulation below.'
+    )
+  }
 
   // Close custom destination popover on outside click or Escape
   useEffect(() => {
@@ -819,45 +832,27 @@ export default function MyMexicoRedesign({
             {es ? (
               <>
                 Crea tu guía de experiencias personalizadas, o{' '}
-                <button
-                  type="button"
-                  className="mmw-marisol-inline-link"
-                  onClick={() => {
-                    setGuideOpen(true)
-                    setTimeout(() => {
-                      guideDrawerRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
-                    }, 50)
-                    announce(
-                      'Marisol: He preparado sugerencias verificadas y la simulación interactiva abajo.',
-                      'Marisol: I have prepared verified suggestions and the interactive simulation below.'
-                    )
-                  }}
-                >
+                <button type="button" className="mmw-marisol-inline-link" onClick={openMarisol}>
                   habla con Marisol.
                 </button>
               </>
             ) : (
               <>
                 Create your guide to personalized experiences, or talk to{' '}
-                <button
-                  type="button"
-                  className="mmw-marisol-inline-link"
-                  onClick={() => {
-                    setGuideOpen(true)
-                    setTimeout(() => {
-                      guideDrawerRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
-                    }, 50)
-                    announce(
-                      'Marisol: He preparado sugerencias verificadas y la simulación interactiva abajo.',
-                      'Marisol: I have prepared verified suggestions and the interactive simulation below.'
-                    )
-                  }}
-                >
+                <button type="button" className="mmw-marisol-inline-link" onClick={openMarisol}>
                   Marisol.
                 </button>
               </>
             )}
           </p>
+          <div className="mmw-mobile-jump" aria-label={es ? 'Accesos rápidos' : 'Quick access'}>
+            <a className="mmw-mobile-jump-btn" href="#mmw-experience-creator">
+              {es ? 'Crear mi guía' : 'Build my guide'}
+            </a>
+            <button type="button" className="mmw-mobile-jump-link" onClick={openMarisol}>
+              {es ? 'Hablar con Marisol' : 'Talk to Marisol'}
+            </button>
+          </div>
         </div>
       )}
 
@@ -889,9 +884,14 @@ export default function MyMexicoRedesign({
         </article>
 
         {/* RIGHT COLUMN: Experience Creator Form matching user screenshot */}
-        <div className="mmw-creator-panel">
-          <form onSubmit={handleFormSubmit} aria-labelledby={formHeadingId} noValidate>
-            <div>
+        <div className="mmw-creator-panel" id="mmw-experience-creator">
+          <form
+            id="mmw-experience-form"
+            onSubmit={handleFormSubmit}
+            aria-labelledby={formHeadingId}
+            noValidate
+          >
+            <div className="mmw-creator-intro">
               <p className="mmw-creator-eyebrow">
                 {es ? 'CREADOR DE TU EXPERIENCIA' : 'YOUR EXPERIENCE CREATOR'}
               </p>
@@ -900,7 +900,7 @@ export default function MyMexicoRedesign({
               </h2>
             </div>
 
-            {/* Destination Input */}
+            {/* Destination Input — first action on mobile */}
             <div className="mmw-field-group" ref={comboboxRef}>
               <label htmlFor={`${baseId}-dest-input`} className="mmw-label">
                 {es ? 'Quiero crear mi guía para:' : 'I want to create my guide to:'}
@@ -918,6 +918,7 @@ export default function MyMexicoRedesign({
                   autoComplete="off"
                   autoCorrect="off"
                   spellCheck={false}
+                  enterKeyHint="search"
                   aria-expanded={dropdownOpen}
                 />
               </div>
@@ -947,24 +948,71 @@ export default function MyMexicoRedesign({
               )}
             </div>
 
-            {/* 17 Experience Pill Checkboxes in 3 Columns */}
+            {/* Quick-start suggestions — high on mobile for one-tap fill */}
+            <div
+              className="mmw-suggestions-box"
+              role="region"
+              aria-label={es ? 'Sugerencias para tu guía' : 'Suggestions for your guide'}
+            >
+              <div className="mmw-suggestions-header">
+                <span className="mmw-suggestions-label">
+                  ✦ {es ? 'Empieza con una idea:' : 'Start with an idea:'}
+                </span>
+              </div>
+              <div
+                className="mmw-suggestions-chips"
+                role="group"
+                aria-label={es ? 'Rutas recomendadas' : 'Recommended routes'}
+              >
+                {CURATED_SUGGESTIONS.map(sug => (
+                  <button
+                    key={sug.id}
+                    type="button"
+                    className="mmw-suggestion-chip"
+                    onClick={() => applySuggestion(sug)}
+                    title={
+                      es
+                        ? `Cargar sugerencia: ${sug.label.es}`
+                        : `Load suggestion: ${sug.label.en}`
+                    }
+                  >
+                    <span>{sug.label[locale]}</span>
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            {/* Experience pills — preview first N on mobile, expand for the rest */}
             <fieldset className="mmw-fieldset">
               <legend className="mmw-legend">
                 {es ? 'Incluir mis experiencias favoritas:' : 'Include my favourite experiences:'}
               </legend>
               <p className="mmw-sublegend">
                 {es ? 'Elige tantas como quieras' : 'Choose as many as you like'}
+                {allSelectedPills.length > 0 && (
+                  <span className="mmw-selection-count">
+                    {' '}
+                    · {allSelectedPills.length} {es ? 'elegidas' : 'selected'}
+                  </span>
+                )}
               </p>
 
-              <div className="mmw-pills-grid">
+              <div
+                className={`mmw-pills-grid${showAllPills ? ' is-expanded' : ''}`}
+                data-collapsed={!showAllPills ? 'true' : 'false'}
+              >
                 {EXPERIENCE_OPTIONS.map((option, idx) => {
                   const inputId = `${baseId}-pill-${idx}`
                   const isChecked = option.catalogInterest
                     ? draft.interests.includes(option.catalogInterest)
                     : extraInterests.includes(option.id)
+                  const isPreviewHidden = !showAllPills && idx >= MOBILE_PILL_PREVIEW
 
                   return (
-                    <div key={option.id} className="mmw-pill-item">
+                    <div
+                      key={option.id}
+                      className={`mmw-pill-item${isPreviewHidden ? ' mmw-pill-more' : ''}`}
+                    >
                       <input
                         id={inputId}
                         name="interests"
@@ -980,84 +1028,71 @@ export default function MyMexicoRedesign({
                             <polyline points="1.5 5.5 4.5 8.5 10.5 1.5" />
                           </svg>
                         </span>
-                        <span className="mmw-pill-text">
-                          {es ? option.es : option.en}
-                        </span>
+                        <span className="mmw-pill-text">{es ? option.es : option.en}</span>
                       </label>
                     </div>
                   )
                 })}
               </div>
+
+              {!showAllPills && EXPERIENCE_OPTIONS.length > MOBILE_PILL_PREVIEW && (
+                <button
+                  type="button"
+                  className="mmw-pills-expand"
+                  onClick={() => setShowAllPills(true)}
+                >
+                  {es
+                    ? `Ver las ${EXPERIENCE_OPTIONS.length - MOBILE_PILL_PREVIEW} experiencias más`
+                    : `Show ${EXPERIENCE_OPTIONS.length - MOBILE_PILL_PREVIEW} more experiences`}
+                </button>
+              )}
+              {showAllPills && EXPERIENCE_OPTIONS.length > MOBILE_PILL_PREVIEW && (
+                <button
+                  type="button"
+                  className="mmw-pills-expand"
+                  onClick={() => setShowAllPills(false)}
+                >
+                  {es ? 'Mostrar menos' : 'Show fewer'}
+                </button>
+              )}
             </fieldset>
 
-            {/* Notes Textarea matching user screenshot */}
+            {/* Notes — compact on mobile */}
             <div className="mmw-notes-group">
+              <label htmlFor={`${baseId}-notes`} className="mmw-label mmw-notes-label">
+                {es ? 'Notas personales (opcional)' : 'Personal notes (optional)'}
+              </label>
               <textarea
                 id={`${baseId}-notes`}
                 name="notes"
                 maxLength={1200}
                 className="mmw-textarea"
+                rows={3}
                 value={draft.notes}
                 onChange={e =>
                   setDraft(old => ({ ...old, notes: e.target.value.slice(0, 1200) }))
                 }
                 placeholder={
                   es
-                    ? 'Escribe cómo te gustaría vivir este viaje (ritmo, intereses, notas personales)...'
-                    : 'Write how you would like to experience this trip (pace, food ideas, personal notes)...'
+                    ? 'Ritmo, comida, notas personales...'
+                    : 'Pace, food ideas, personal notes...'
                 }
               />
             </div>
 
-            {/* Curated Suggestions Box directly above Create my guide */}
-            <div className="mmw-suggestions-box" role="region" aria-label={es ? 'Sugerencias para tu guía' : 'Suggestions for your guide'}>
-              <div className="mmw-suggestions-header">
-                <span className="mmw-suggestions-label">
-                  ✦ {es ? 'Sugerencias para inspirarte:' : 'Suggestions to inspire you:'}
-                </span>
-              </div>
-              <div className="mmw-suggestions-chips" role="group" aria-label={es ? 'Rutas recomendadas' : 'Recommended routes'}>
-                {CURATED_SUGGESTIONS.map(sug => (
-                  <button
-                    key={sug.id}
-                    type="button"
-                    className="mmw-suggestion-chip"
-                    onClick={() => applySuggestion(sug)}
-                    title={es ? `Cargar sugerencia: ${sug.label.es}` : `Load suggestion: ${sug.label.en}`}
-                  >
-                    <span>{sug.label[locale]}</span>
-                  </button>
-                ))}
-              </div>
-            </div>
-
-            {/* Action Buttons matching user screenshot */}
-            <div className="mmw-actions-row">
+            {/* Inline actions — desktop / tablet; sticky bar covers phones */}
+            <div className="mmw-actions-row mmw-actions-inline">
               <button type="submit" className="mmw-btn-primary">
                 <span>{es ? 'Crear mi guía' : 'Create my guide'}</span>
                 <span className="mmw-btn-arrow" aria-hidden="true">
                   ↗
                 </span>
               </button>
-              <button
-                type="button"
-                className="mmw-btn-secondary"
-                onClick={() => {
-                  setGuideOpen(true)
-                  setTimeout(() => {
-                    guideDrawerRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' })
-                  }, 50)
-                  announce(
-                    'Marisol: He preparado sugerencias verificadas y la simulación interactiva abajo.',
-                    'Marisol: I have prepared verified suggestions and the interactive simulation below.'
-                  )
-                }}
-              >
+              <button type="button" className="mmw-btn-secondary" onClick={openMarisol}>
                 {es ? 'Hablar con Marisol' : 'Talk to Marisol'}
               </button>
             </div>
 
-            {/* Footnote matching user screenshot */}
             <p className="mmw-footnote">
               {es
                 ? 'Ingresa cualquier destino en México. Empieza con tus preferencias; este piloto cuenta con sugerencias verificadas con fuentes para ocho destinos de Baja California. La IA no está conectada.'
@@ -1069,6 +1104,26 @@ export default function MyMexicoRedesign({
             </p>
           </form>
         </div>
+      </div>
+
+      {/* Sticky mobile access bar — always in thumb reach */}
+      <div className="mmw-sticky-cta" role="region" aria-label={es ? 'Acciones rápidas' : 'Quick actions'}>
+        <button type="button" className="mmw-btn-secondary mmw-sticky-secondary" onClick={openMarisol}>
+          {es ? 'Marisol' : 'Marisol'}
+        </button>
+        <button
+          type="button"
+          className="mmw-btn-primary mmw-sticky-primary"
+          onClick={() => {
+            const form = document.getElementById('mmw-experience-form') as HTMLFormElement | null
+            form?.requestSubmit()
+          }}
+        >
+          <span>{es ? 'Crear mi guía' : 'Create my guide'}</span>
+          <span className="mmw-btn-arrow" aria-hidden="true">
+            ↗
+          </span>
+        </button>
       </div>
 
       {/* Guide Studio & Simulation (Expands below when "Create my guide" is clicked) */}
