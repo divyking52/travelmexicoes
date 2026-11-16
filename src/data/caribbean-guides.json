@@ -1,0 +1,1943 @@
+{
+  "schemaVersion": 1,
+  "provenance": {
+    "sourceArchive": "TravelMexico_Codigo_Local_Revision_2026-11-10.zip",
+    "sourceArchiveHash": "b10764e8fe47e60e8c2bd0ed9c5982ca7a139b300f754dfefbe9b33a86e9ac83",
+    "sourceReviewDate": "2026-11-06",
+    "reverified": false
+  },
+  "destinations": [
+    {
+      "id": "bacalar",
+      "name": {
+        "es": "Bacalar",
+        "en": "Bacalar"
+      },
+      "summary": {
+        "es": "Bacalar se organiza alrededor de una laguna de agua dulce y un pueblo para recorrer con calma. No lo plantees como una jornada de playa de mar.",
+        "en": "Bacalar centres on a freshwater lagoon and a town to explore slowly. Do not plan it as a day at an ocean beach."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Distingue entre una estancia junto a la laguna y otra en el pueblo. Pregunta qué acceso al agua está realmente incluido, cómo se llega y qué reglas de uso se aplican.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Distinguish between a lagoon-side stay and one in town. Ask which water access is actually included, how to reach it and which rules apply.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "bacalar-block-1",
+          "title": {
+            "es": "La laguna con cuidado",
+            "en": "The lagoon with care"
+          },
+          "body": {
+            "es": "La Laguna de los Siete Colores es de agua dulce. Conserva este bloque deliberadamente abierto. Elige una pausa, un paseo corto o una vista cercana según la accesibilidad y el clima. No necesitas añadir una actividad pagada para que el día tenga sentido. Ajusta el plan a las necesidades reales de quienes viajan contigo.",
+            "en": "The Lagoon of Seven Colours is freshwater. Keep this block deliberately open. Choose a break, a short walk or a nearby view according to access and weather. You do not need to add a paid activity for the day to feel worthwhile. Adapt the plan to the people travelling with you."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "bacalar-block-2",
+          "title": {
+            "es": "El Fuerte de San Felipe",
+            "en": "San Felipe Fort"
+          },
+          "body": {
+            "es": "El fuerte forma parte del patrimonio de Bacalar. Elige una visita principal y deja espacio para leer el lugar en vez de acumular paradas. Busca contexto en la señalización o con un guía adecuado. Pregunta antes de fotografiar a personas, entrar en un espacio comunitario o participar en una actividad cultural.",
+            "en": "The fort is part of Bacalar's heritage. Choose one main visit and leave time to understand the place rather than collecting stops. Look for context in signs or with a suitable guide. Ask before photographing people, entering a community space or joining a cultural activity."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "bacalar-block-3",
+          "title": {
+            "es": "Pueblo y sobremesa",
+            "en": "Town and an unhurried meal"
+          },
+          "body": {
+            "es": "El pueblo complementa la experiencia de la laguna. Elige una visita principal y deja espacio para leer el lugar en vez de acumular paradas. Busca contexto en la señalización o con un guía adecuado. Pregunta antes de fotografiar a personas, entrar en un espacio comunitario o participar en una actividad cultural.",
+            "en": "The town complements the lagoon experience. Choose one main visit and leave time to understand the place rather than collecting stops. Look for context in signs or with a suitable guide. Ask before photographing people, entering a community space or joining a cultural activity."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "bacalar-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Bacalar, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Bacalar, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "bacalar-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Bacalar alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Bacalar near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "bacalar-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Bacalar o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Bacalar or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "bacalar-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Bacalar alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Bacalar around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Sigue las reglas de conservación de la laguna y evita tocar o alterar formaciones, vegetación y fauna.",
+          "Consulta al operador las zonas permitidas, el equipo y las condiciones antes de una salida al agua.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Follow lagoon conservation rules and avoid touching or disturbing formations, vegetation and wildlife.",
+          "Ask the operator about permitted areas, equipment and conditions before going on the water.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Bacalar",
+          "url": "https://mexicancaribbean.travel/destinations/bacalar/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/bacalar/index.html",
+          "sha256": "a5856ed772d0c129c0cb849f42c8c1535d9cc9e1afaf40f589284d8833617c6f"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/bacalar/index.html",
+          "sha256": "20cef4b0a3a2ae4d897668b3433f608750821444933521255ef6459ffd951a20"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "cancun",
+      "name": {
+        "es": "Cancún",
+        "en": "Cancún"
+      },
+      "summary": {
+        "es": "Cancún permite combinar la costa, la laguna Nichupté y una visita cultural sin convertir cada jornada en una excursión distante.",
+        "en": "Cancún lets you combine the coast, Nichupté Lagoon and a cultural visit without turning every day into a distant excursion."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Compara una estancia en la zona hotelera con una base en la ciudad. Prioriza el acceso real a los lugares que quieres visitar, no solo la fotografía del hotel.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Compare a Hotel Zone stay with a city base. Prioritise actual access to the places you want to visit, rather than the hotel photograph alone.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "cancun-block-1",
+          "title": {
+            "es": "Costa y laguna",
+            "en": "Coast and lagoon"
+          },
+          "body": {
+            "es": "La zona hotelera se extiende entre el Caribe y Nichupté. Conserva este bloque deliberadamente abierto. Elige una pausa, un paseo corto o una vista cercana según la accesibilidad y el clima. No necesitas añadir una actividad pagada para que el día tenga sentido. Ajusta el plan a las necesidades reales de quienes viajan contigo.",
+            "en": "The Hotel Zone sits between the Caribbean and Nichupté. Keep this block deliberately open. Choose a break, a short walk or a nearby view according to access and weather. You do not need to add a paid activity for the day to feel worthwhile. Adapt the plan to the people travelling with you."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "cancun-block-2",
+          "title": {
+            "es": "Una visita al Museo Maya",
+            "en": "A visit to the Maya Museum"
+          },
+          "body": {
+            "es": "El Museo Maya ofrece una entrada cultural al destino. Elige una visita principal y deja espacio para leer el lugar en vez de acumular paradas. Busca contexto en la señalización o con un guía adecuado. Pregunta antes de fotografiar a personas, entrar en un espacio comunitario o participar en una actividad cultural.",
+            "en": "The Maya Museum offers a cultural starting point. Choose one main visit and leave time to understand the place rather than collecting stops. Look for context in signs or with a suitable guide. Ask before photographing people, entering a community space or joining a cultural activity."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "cancun-block-3",
+          "title": {
+            "es": "El Rey o San Miguelito",
+            "en": "El Rey or San Miguelito"
+          },
+          "body": {
+            "es": "Estos sitios arqueológicos aportan otra mirada a Cancún. Decide la experiencia después de comprobar condiciones, acceso y requisitos del grupo. Mantén distancia de la fauna y sigue las indicaciones de conservación. Si el entorno o el clima no permiten la salida, conserva el día para una alternativa tranquila cerca de tu base.",
+            "en": "These archaeological sites offer another perspective on Cancún. Choose the experience after checking conditions, access and your group's requirements. Keep your distance from wildlife and follow conservation guidance. If conditions do not allow the outing, keep the day for a relaxed alternative near your base."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "cancun-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Cancún, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Cancún, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "cancun-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Cancún alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Cancún near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "cancun-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Cancún o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Cancún or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "cancun-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Cancún alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Cancún around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Pregunta por accesos a la costa y servicios incluidos; no todos los tramos frente a hoteles funcionan de la misma forma.",
+          "Consulta condiciones del mar y señalización local. La apariencia del agua no garantiza que sea adecuada para nadar.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Ask about coast access and included facilities; hotel-front areas do not all operate in the same way.",
+          "Check sea conditions and local signs. The appearance of the water does not guarantee it is suitable for swimming.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Cancún",
+          "url": "https://mexicancaribbean.travel/destinations/cancun/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/cancun/index.html",
+          "sha256": "f6f5f7b3d179a96ee88ce1c8c667fdbc7ab07da1f3ceff0e839aaf2b37fd50a9"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/cancun/index.html",
+          "sha256": "2639ab7622799bc65f47fcf1cdcc7fe3056c5e30208c2aad4ad6779b86a8dcf5"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "chetumal",
+      "name": {
+        "es": "Chetumal",
+        "en": "Chetumal"
+      },
+      "summary": {
+        "es": "Chetumal combina vida urbana, bahía y contexto cultural maya. Es una base distinta a los destinos de playa del norte del estado.",
+        "en": "Chetumal combines urban life, the bay and Maya cultural context. It is a different kind of base from the state's northern beach destinations."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Elige una ubicación práctica para tus actividades dentro de la ciudad. Si planeas una salida regional, confirma la logística de ida y vuelta antes de agregar otra parada.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Choose a practical location for your activities in the city. If you plan a regional outing, confirm return logistics before adding another stop.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "chetumal-block-1",
+          "title": {
+            "es": "Una mirada a la bahía",
+            "en": "A look at the bay"
+          },
+          "body": {
+            "es": "Chetumal se asoma a una bahía del Caribe sur. Conserva este bloque deliberadamente abierto. Elige una pausa, un paseo corto o una vista cercana según la accesibilidad y el clima. No necesitas añadir una actividad pagada para que el día tenga sentido. Ajusta el plan a las necesidades reales de quienes viajan contigo.",
+            "en": "Chetumal overlooks a bay in the southern Caribbean region. Keep this block deliberately open. Choose a break, a short walk or a nearby view according to access and weather. You do not need to add a paid activity for the day to feel worthwhile. Adapt the plan to the people travelling with you."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "chetumal-block-2",
+          "title": {
+            "es": "Museo de la Cultura Maya",
+            "en": "Museum of Maya Culture"
+          },
+          "body": {
+            "es": "El museo ofrece contexto cultural para explorar la región. Elige una visita principal y deja espacio para leer el lugar en vez de acumular paradas. Busca contexto en la señalización o con un guía adecuado. Pregunta antes de fotografiar a personas, entrar en un espacio comunitario o participar en una actividad cultural.",
+            "en": "The museum offers cultural context for exploring the region. Choose one main visit and leave time to understand the place rather than collecting stops. Look for context in signs or with a suitable guide. Ask before photographing people, entering a community space or joining a cultural activity."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "chetumal-block-3",
+          "title": {
+            "es": "Mercados y cocina de la ciudad",
+            "en": "Markets and city food"
+          },
+          "body": {
+            "es": "Mercados y cocinas locales forman parte de la experiencia urbana. Elige una visita principal y deja espacio para leer el lugar en vez de acumular paradas. Busca contexto en la señalización o con un guía adecuado. Pregunta antes de fotografiar a personas, entrar en un espacio comunitario o participar en una actividad cultural.",
+            "en": "Markets and local kitchens are part of the urban experience. Choose one main visit and leave time to understand the place rather than collecting stops. Look for context in signs or with a suitable guide. Ask before photographing people, entering a community space or joining a cultural activity."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "chetumal-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Chetumal, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Chetumal, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "chetumal-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Chetumal alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Chetumal near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "chetumal-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Chetumal o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Chetumal or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "chetumal-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Chetumal alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Chetumal around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Agrupa las visitas por zona y confirma accesibilidad, sombra y transporte de regreso para el grupo.",
+          "Comprueba horarios y exposiciones con cada recinto; no todos los espacios están disponibles todos los días.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Group visits by area and confirm access, shade and return transport for your group.",
+          "Check opening times and exhibitions with each venue; spaces may not be available every day.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Chetumal",
+          "url": "https://mexicancaribbean.travel/destinations/chetumal/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/chetumal/index.html",
+          "sha256": "d2f2662bda39c7ea82f749d67f70387f3d2390ce8187aff500d57d6934c47f37"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/chetumal/index.html",
+          "sha256": "c26734dc82915d6f81edef3010a71634c87efe2e1bf476b008a888d00aca112f"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "costa-mujeres",
+      "name": {
+        "es": "Costa Mujeres",
+        "en": "Costa Mujeres"
+      },
+      "summary": {
+        "es": "Al norte de Cancún, Costa Mujeres invita a elegir una base junto al mar y organizar pocas salidas bien pensadas.",
+        "en": "North of Cancún, Costa Mujeres invites you to choose a coastal base and plan a small number of thoughtful outings."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Revisa la ubicación concreta del alojamiento y cómo llegar a los servicios que necesitarás. Una dirección al norte de Cancún no significa que todo esté a distancia caminable.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Check the property's exact location and how you will reach the services you need. An address north of Cancún does not mean everything is within walking distance.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "costa-mujeres-block-1",
+          "title": {
+            "es": "Una pausa frente al mar",
+            "en": "A pause beside the sea"
+          },
+          "body": {
+            "es": "La costa reúne playa, manglar y vegetación tropical. Conserva este bloque deliberadamente abierto. Elige una pausa, un paseo corto o una vista cercana según la accesibilidad y el clima. No necesitas añadir una actividad pagada para que el día tenga sentido. Ajusta el plan a las necesidades reales de quienes viajan contigo.",
+            "en": "This coast brings together beaches, mangroves and tropical vegetation. Keep this block deliberately open. Choose a break, a short walk or a nearby view according to access and weather. You do not need to add a paid activity for the day to feel worthwhile. Adapt the plan to the people travelling with you."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "costa-mujeres-block-2",
+          "title": {
+            "es": "Una salida hacia Isla Blanca",
+            "en": "An outing toward Isla Blanca"
+          },
+          "body": {
+            "es": "Isla Blanca es una referencia cercana para explorar el paisaje. Valora la actividad según tu experiencia y las condiciones reales, no solo por una fotografía. Consulta requisitos, equipo, acompañamiento, punto de encuentro y política de cambios. No reserves una salida acuática o remota sin saber cómo se manejaría una cancelación por condiciones adversas.",
+            "en": "Isla Blanca is a nearby reference point for exploring the landscape. Assess the activity against your experience and actual conditions, not a photograph alone. Check requirements, equipment, supervision, meeting points and change policies. Before booking a water or remote outing, ask what happens if conditions require cancellation."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "costa-mujeres-block-3",
+          "title": {
+            "es": "El Meco como visita cultural",
+            "en": "El Meco as a cultural visit"
+          },
+          "body": {
+            "es": "El sitio de El Meco complementa una estancia de costa. Elige una visita principal y deja espacio para leer el lugar en vez de acumular paradas. Busca contexto en la señalización o con un guía adecuado. Pregunta antes de fotografiar a personas, entrar en un espacio comunitario o participar en una actividad cultural.",
+            "en": "The El Meco site complements a coastal stay. Choose one main visit and leave time to understand the place rather than collecting stops. Look for context in signs or with a suitable guide. Ask before photographing people, entering a community space or joining a cultural activity."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "costa-mujeres-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Costa Mujeres, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Costa Mujeres, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "costa-mujeres-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Costa Mujeres alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Costa Mujeres near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "costa-mujeres-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Costa Mujeres o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Costa Mujeres or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "costa-mujeres-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Costa Mujeres alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Costa Mujeres around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Pregunta por accesos a la costa y servicios incluidos; no todos los tramos frente a hoteles funcionan de la misma forma.",
+          "Consulta condiciones del mar y señalización local. La apariencia del agua no garantiza que sea adecuada para nadar.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Ask about coast access and included facilities; hotel-front areas do not all operate in the same way.",
+          "Check sea conditions and local signs. The appearance of the water does not guarantee it is suitable for swimming.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Costa Mujeres",
+          "url": "https://mexicancaribbean.travel/destinations/costa-mujeres/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/costa-mujeres/index.html",
+          "sha256": "c0095d6a5d26058002f2335037560cd1373825ae14054b1bb62ddd13fae84e22"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/costa-mujeres/index.html",
+          "sha256": "cdd517f97d2251f9f93c534c117dabcf1e5d2a64c6172032c3824fa44703a288"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "holbox",
+      "name": {
+        "es": "Holbox",
+        "en": "Holbox"
+      },
+      "summary": {
+        "es": "Holbox propone un ritmo de isla y un paisaje vinculado a Yum Balam. Planea alrededor del descanso y de las condiciones reales del entorno.",
+        "en": "Holbox offers an island pace and a landscape connected to Yum Balam. Build your plan around rest and the environment's actual conditions."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Pregunta cómo se llega al alojamiento desde el punto de desembarque y qué opciones de movilidad son adecuadas para tu grupo. Reserva margen para la llegada y el regreso.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Ask how to reach your accommodation from the arrival point and which transport options suit your group. Leave a buffer for arrival and departure.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "holbox-block-1",
+          "title": {
+            "es": "El pueblo sin una lista larga",
+            "en": "Explore the village without a long checklist"
+          },
+          "body": {
+            "es": "Las calles de arena forman parte del carácter de Holbox. Haz de la comida el centro de este bloque, sin prometer un restaurante ni menú específico. Compara opciones cerca de tu recorrido, pregunta por ingredientes y precios y reserva tiempo para la sobremesa. Si hay alergias, habla directamente con el establecimiento antes de ordenar.",
+            "en": "Sandy streets are part of Holbox's character. Make a meal the focus of this block without assuming a particular restaurant or menu. Compare options near your route, ask about ingredients and prices, and leave time to linger. Discuss allergies directly with the establishment before ordering."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "holbox-block-2",
+          "title": {
+            "es": "Una pausa en la costa",
+            "en": "A pause along the coast"
+          },
+          "body": {
+            "es": "La costa invita a una estancia de ritmo lento. Conserva este bloque deliberadamente abierto. Elige una pausa, un paseo corto o una vista cercana según la accesibilidad y el clima. No necesitas añadir una actividad pagada para que el día tenga sentido. Ajusta el plan a las necesidades reales de quienes viajan contigo.",
+            "en": "The coast invites an unhurried stay. Keep this block deliberately open. Choose a break, a short walk or a nearby view according to access and weather. You do not need to add a paid activity for the day to feel worthwhile. Adapt the plan to the people travelling with you."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "holbox-block-3",
+          "title": {
+            "es": "Naturaleza con acompañamiento local",
+            "en": "Nature with local guidance"
+          },
+          "body": {
+            "es": "Holbox está ligada al entorno protegido de Yum Balam. Valora la actividad según tu experiencia y las condiciones reales, no solo por una fotografía. Consulta requisitos, equipo, acompañamiento, punto de encuentro y política de cambios. No reserves una salida acuática o remota sin saber cómo se manejaría una cancelación por condiciones adversas.",
+            "en": "Holbox is connected to the protected Yum Balam area. Assess the activity against your experience and actual conditions, not a photograph alone. Check requirements, equipment, supervision, meeting points and change policies. Before booking a water or remote outing, ask what happens if conditions require cancellation."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "holbox-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Holbox, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Holbox, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "holbox-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Holbox alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Holbox near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "holbox-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Holbox o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Holbox or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "holbox-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Holbox alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Holbox around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Confirma el trayecto marítimo, el punto de llegada y el último regreso con el operador; la guía no contiene horarios de ferry.",
+          "Consulta por equipaje y movilidad desde el punto de llegada. Deja margen ante cambios de condiciones del mar.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Confirm the crossing, arrival point and last return with the operator; this guide does not contain ferry timetables.",
+          "Ask about luggage and onward mobility from your arrival point. Allow a buffer for changes in sea conditions.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Holbox",
+          "url": "https://mexicancaribbean.travel/destinations/isla-holbox/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/holbox/index.html",
+          "sha256": "3843b7312b96096e1bcfa7e62504b65de07a8f50c8d8c14f21b545ddd690051e"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/holbox/index.html",
+          "sha256": "b13f9876b127c4297c20e718fd1a6c2e965ddea294cd122203a17040b8c20007"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "isla-cozumel",
+      "name": {
+        "es": "Isla Cozumel",
+        "en": "Isla Cozumel"
+      },
+      "summary": {
+        "es": "Cozumel tiene una vida propia más allá de una excursión de arrecife. Deja espacio para San Miguel y una salida terrestre, además del mar.",
+        "en": "Cozumel has a life of its own beyond a reef excursion. Leave room for San Miguel and an outing on land as well as the sea."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Compara San Miguel con otras zonas de estancia en la isla. Ten claro cómo llegarás al punto de salida de cada actividad y evita calcular el día solo con la distancia en el mapa.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Compare San Miguel with other parts of the island. Know how you will reach each activity's departure point and avoid planning a day solely from map distances.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "isla-cozumel-block-1",
+          "title": {
+            "es": "San Miguel y el malecón",
+            "en": "San Miguel and the waterfront"
+          },
+          "body": {
+            "es": "El paseo de San Miguel ofrece una primera mirada urbana a la isla. Haz de la comida el centro de este bloque, sin prometer un restaurante ni menú específico. Compara opciones cerca de tu recorrido, pregunta por ingredientes y precios y reserva tiempo para la sobremesa. Si hay alergias, habla directamente con el establecimiento antes de ordenar.",
+            "en": "San Miguel's waterfront offers a first look at island life. Make a meal the focus of this block without assuming a particular restaurant or menu. Compare options near your route, ask about ingredients and prices, and leave time to linger. Discuss allergies directly with the establishment before ordering."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "isla-cozumel-block-2",
+          "title": {
+            "es": "Una experiencia de arrecife",
+            "en": "A reef experience"
+          },
+          "body": {
+            "es": "Los arrecifes son una parte central de la identidad de Cozumel. Valora la actividad según tu experiencia y las condiciones reales, no solo por una fotografía. Consulta requisitos, equipo, acompañamiento, punto de encuentro y política de cambios. No reserves una salida acuática o remota sin saber cómo se manejaría una cancelación por condiciones adversas.",
+            "en": "Reefs are central to Cozumel's identity. Assess the activity against your experience and actual conditions, not a photograph alone. Check requirements, equipment, supervision, meeting points and change policies. Before booking a water or remote outing, ask what happens if conditions require cancellation."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "isla-cozumel-block-3",
+          "title": {
+            "es": "San Gervasio o Punta Sur",
+            "en": "San Gervasio or Punta Sur"
+          },
+          "body": {
+            "es": "San Gervasio y Punta Sur permiten explorar historia o naturaleza. Decide la experiencia después de comprobar condiciones, acceso y requisitos del grupo. Mantén distancia de la fauna y sigue las indicaciones de conservación. Si el entorno o el clima no permiten la salida, conserva el día para una alternativa tranquila cerca de tu base.",
+            "en": "San Gervasio and Punta Sur offer history or nature outings. Choose the experience after checking conditions, access and your group's requirements. Keep your distance from wildlife and follow conservation guidance. If conditions do not allow the outing, keep the day for a relaxed alternative near your base."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "isla-cozumel-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Isla Cozumel, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Isla Cozumel, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "isla-cozumel-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Isla Cozumel alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Isla Cozumel near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "isla-cozumel-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Isla Cozumel o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Isla Cozumel or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "isla-cozumel-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Isla Cozumel alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Isla Cozumel around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Confirma el trayecto marítimo, el punto de llegada y el último regreso con el operador; la guía no contiene horarios de ferry.",
+          "Consulta por equipaje y movilidad desde el punto de llegada. Deja margen ante cambios de condiciones del mar.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Confirm the crossing, arrival point and last return with the operator; this guide does not contain ferry timetables.",
+          "Ask about luggage and onward mobility from your arrival point. Allow a buffer for changes in sea conditions.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Isla Cozumel",
+          "url": "https://mexicancaribbean.travel/destinations/isla-cozumel/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/isla-cozumel/index.html",
+          "sha256": "145558e59f911549eef0b7d0566a869cc3f54210b5364fc4fbf5257f6eeac2b9"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/isla-cozumel/index.html",
+          "sha256": "dfc712b790426ab84ee6ede9fad131f7515cdff26d3e9e28771ec80e98eb6481"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "isla-mujeres",
+      "name": {
+        "es": "Isla Mujeres",
+        "en": "Isla Mujeres"
+      },
+      "summary": {
+        "es": "El carácter de Isla Mujeres se entiende mejor al separar el paseo por la isla de una actividad en el mar.",
+        "en": "Isla Mujeres is easier to enjoy when an island outing and a sea activity each have their own space in your plan."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Decide primero si dormirás en la isla o harás una visita desde tierra firme. Esa elección cambia tu margen para pasear, cenar y organizar el regreso.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "First decide whether you will stay on the island or visit from the mainland. That choice changes your time for walking, dining and arranging the return.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "isla-mujeres-block-1",
+          "title": {
+            "es": "Playa Norte y su entorno",
+            "en": "Playa Norte and its surroundings"
+          },
+          "body": {
+            "es": "Playa Norte es una de las referencias de la isla. Conserva este bloque deliberadamente abierto. Elige una pausa, un paseo corto o una vista cercana según la accesibilidad y el clima. No necesitas añadir una actividad pagada para que el día tenga sentido. Ajusta el plan a las necesidades reales de quienes viajan contigo.",
+            "en": "Playa Norte is one of the island's landmarks. Keep this block deliberately open. Choose a break, a short walk or a nearby view according to access and weather. You do not need to add a paid activity for the day to feel worthwhile. Adapt the plan to the people travelling with you."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "isla-mujeres-block-2",
+          "title": {
+            "es": "Mirar la isla desde Punta Sur",
+            "en": "See the island from Punta Sur"
+          },
+          "body": {
+            "es": "Punta Sur reúne paisaje costero y patrimonio maya. Decide la experiencia después de comprobar condiciones, acceso y requisitos del grupo. Mantén distancia de la fauna y sigue las indicaciones de conservación. Si el entorno o el clima no permiten la salida, conserva el día para una alternativa tranquila cerca de tu base.",
+            "en": "Punta Sur combines coastal scenery and Maya heritage. Choose the experience after checking conditions, access and your group's requirements. Keep your distance from wildlife and follow conservation guidance. If conditions do not allow the outing, keep the day for a relaxed alternative near your base."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "isla-mujeres-block-3",
+          "title": {
+            "es": "Una actividad en el agua",
+            "en": "An activity on the water"
+          },
+          "body": {
+            "es": "Manchones y MUSA forman parte de la oferta marina regional. Decide la experiencia después de comprobar condiciones, acceso y requisitos del grupo. Mantén distancia de la fauna y sigue las indicaciones de conservación. Si el entorno o el clima no permiten la salida, conserva el día para una alternativa tranquila cerca de tu base.",
+            "en": "Manchones and MUSA are part of the area's marine attractions. Choose the experience after checking conditions, access and your group's requirements. Keep your distance from wildlife and follow conservation guidance. If conditions do not allow the outing, keep the day for a relaxed alternative near your base."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "isla-mujeres-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Isla Mujeres, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Isla Mujeres, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "isla-mujeres-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Isla Mujeres alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Isla Mujeres near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "isla-mujeres-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Isla Mujeres o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Isla Mujeres or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "isla-mujeres-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Isla Mujeres alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Isla Mujeres around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Confirma el trayecto marítimo, el punto de llegada y el último regreso con el operador; la guía no contiene horarios de ferry.",
+          "Consulta por equipaje y movilidad desde el punto de llegada. Deja margen ante cambios de condiciones del mar.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Confirm the crossing, arrival point and last return with the operator; this guide does not contain ferry timetables.",
+          "Ask about luggage and onward mobility from your arrival point. Allow a buffer for changes in sea conditions.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Isla Mujeres",
+          "url": "https://mexicancaribbean.travel/destinations/isla-mujeres/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/isla-mujeres/index.html",
+          "sha256": "acfd6b0155fec649487d0ea44c219584644b45a0e39c78abd33ead57535b411a"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/isla-mujeres/index.html",
+          "sha256": "436feccdd7d052ce3f3757e8465f984cd0ec13473edbda13b5480a9b9eccede1"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "mahahual",
+      "name": {
+        "es": "Mahahual",
+        "en": "Mahahual"
+      },
+      "summary": {
+        "es": "Mahahual permite organizar una estancia alrededor del malecón y el mar. Una excursión especializada merece un día propio y una decisión informada.",
+        "en": "Mahahual lets you organise a stay around the waterfront and the sea. A specialist excursion deserves its own day and an informed decision."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Comprueba la relación del alojamiento con el malecón y con el punto de salida de las actividades. Pregunta por el ambiente previsto y las opciones de movilidad para tus fechas.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Check how the accommodation relates to the waterfront and activity departure points. Ask about the expected atmosphere and transport options for your dates.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "mahahual-block-1",
+          "title": {
+            "es": "Caminar el malecón",
+            "en": "Walk the waterfront"
+          },
+          "body": {
+            "es": "El malecón acompaña la playa de Mahahual. Conserva este bloque deliberadamente abierto. Elige una pausa, un paseo corto o una vista cercana según la accesibilidad y el clima. No necesitas añadir una actividad pagada para que el día tenga sentido. Ajusta el plan a las necesidades reales de quienes viajan contigo.",
+            "en": "Mahahual's waterfront promenade runs beside the beach. Keep this block deliberately open. Choose a break, a short walk or a nearby view according to access and weather. You do not need to add a paid activity for the day to feel worthwhile. Adapt the plan to the people travelling with you."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "mahahual-block-2",
+          "title": {
+            "es": "Una actividad de arrecife",
+            "en": "A reef activity"
+          },
+          "body": {
+            "es": "El arrecife forma parte del paisaje marino del destino. Valora la actividad según tu experiencia y las condiciones reales, no solo por una fotografía. Consulta requisitos, equipo, acompañamiento, punto de encuentro y política de cambios. No reserves una salida acuática o remota sin saber cómo se manejaría una cancelación por condiciones adversas.",
+            "en": "The reef is part of the destination's marine landscape. Assess the activity against your experience and actual conditions, not a photograph alone. Check requirements, equipment, supervision, meeting points and change policies. Before booking a water or remote outing, ask what happens if conditions require cancellation."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "mahahual-block-3",
+          "title": {
+            "es": "Valorar una salida especializada",
+            "en": "Consider a specialist outing"
+          },
+          "body": {
+            "es": "Banco Chinchorro es una reserva de la biosfera mar adentro. Valora la actividad según tu experiencia y las condiciones reales, no solo por una fotografía. Consulta requisitos, equipo, acompañamiento, punto de encuentro y política de cambios. No reserves una salida acuática o remota sin saber cómo se manejaría una cancelación por condiciones adversas.",
+            "en": "Banco Chinchorro is an offshore biosphere reserve. Assess the activity against your experience and actual conditions, not a photograph alone. Check requirements, equipment, supervision, meeting points and change policies. Before booking a water or remote outing, ask what happens if conditions require cancellation."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "mahahual-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Mahahual, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Mahahual, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "mahahual-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Mahahual alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Mahahual near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "mahahual-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Mahahual o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Mahahual or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "mahahual-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Mahahual alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Mahahual around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Pregunta por accesos a la costa y servicios incluidos; no todos los tramos frente a hoteles funcionan de la misma forma.",
+          "Consulta condiciones del mar y señalización local. La apariencia del agua no garantiza que sea adecuada para nadar.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Ask about coast access and included facilities; hotel-front areas do not all operate in the same way.",
+          "Check sea conditions and local signs. The appearance of the water does not guarantee it is suitable for swimming.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Mahahual",
+          "url": "https://mexicancaribbean.travel/destinations/mahahual/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/mahahual/index.html",
+          "sha256": "ab1cdb66a7fca0b5d7ed207fec37c3f1cd80ebcee21b9cb07f929877933857d0"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/mahahual/index.html",
+          "sha256": "9bab37f71f9a0327568c9145e9e7e59bd149d598010d86f0c3f335a9ea1e1571"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "maya-ka-an",
+      "name": {
+        "es": "Maya Ka’an",
+        "en": "Maya Ka’an"
+      },
+      "summary": {
+        "es": "Maya Ka’an es una región de cultura viva, comunidades y naturaleza. La visita empieza por acordar una experiencia con quienes reciben a los viajeros.",
+        "en": "Maya Ka’an is a region of living culture, communities and nature. A visit starts by arranging an experience with the people who host travellers."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Define una comunidad o zona concreta antes de elegir alojamiento. Organiza un punto de encuentro y el regreso con la cooperativa; no trates toda la región como un circuito compacto.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Choose a specific community or area before selecting accommodation. Arrange a meeting point and return with the cooperative; do not treat the whole region as a compact circuit.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "maya-ka-an-block-1",
+          "title": {
+            "es": "Un encuentro acordado con la comunidad",
+            "en": "An agreed community encounter"
+          },
+          "body": {
+            "es": "Las cooperativas comunitarias participan en la recepción de visitantes. Elige una visita principal y deja espacio para leer el lugar en vez de acumular paradas. Busca contexto en la señalización o con un guía adecuado. Pregunta antes de fotografiar a personas, entrar en un espacio comunitario o participar en una actividad cultural.",
+            "en": "Community cooperatives take part in hosting visitors. Choose one main visit and leave time to understand the place rather than collecting stops. Look for context in signs or with a suitable guide. Ask before photographing people, entering a community space or joining a cultural activity."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "maya-ka-an-block-2",
+          "title": {
+            "es": "Leer el paisaje",
+            "en": "Read the landscape"
+          },
+          "body": {
+            "es": "La región combina selva, humedales y lagunas. Valora la actividad según tu experiencia y las condiciones reales, no solo por una fotografía. Consulta requisitos, equipo, acompañamiento, punto de encuentro y política de cambios. No reserves una salida acuática o remota sin saber cómo se manejaría una cancelación por condiciones adversas.",
+            "en": "The region combines forest, wetlands and lagoons. Assess the activity against your experience and actual conditions, not a photograph alone. Check requirements, equipment, supervision, meeting points and change policies. Before booking a water or remote outing, ask what happens if conditions require cancellation."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "maya-ka-an-block-3",
+          "title": {
+            "es": "Compartir la mesa con respeto",
+            "en": "Share a meal respectfully"
+          },
+          "body": {
+            "es": "La cultura maya es una presencia viva en esta región. Elige una visita principal y deja espacio para leer el lugar en vez de acumular paradas. Busca contexto en la señalización o con un guía adecuado. Pregunta antes de fotografiar a personas, entrar en un espacio comunitario o participar en una actividad cultural.",
+            "en": "Maya culture is a living presence in this region. Choose one main visit and leave time to understand the place rather than collecting stops. Look for context in signs or with a suitable guide. Ask before photographing people, entering a community space or joining a cultural activity."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "maya-ka-an-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Maya Ka’an, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Maya Ka’an, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "maya-ka-an-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Maya Ka’an alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Maya Ka’an near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "maya-ka-an-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Maya Ka’an o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Maya Ka’an or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "maya-ka-an-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Maya Ka’an alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Maya Ka’an around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Acuerda con la comunidad anfitriona qué incluye la visita y qué se puede fotografiar. La guía no equivale a una invitación ni reserva.",
+          "Confirma disponibilidad, idioma y transporte con el anfitrión. Respeta cambios derivados de las necesidades de la comunidad.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Agree with your hosts what the visit includes and what you may photograph. This guide is not an invitation or booking.",
+          "Confirm availability, language and transport with the host. Respect changes arising from the community's needs.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Maya Ka’an",
+          "url": "https://mexicancaribbean.travel/destinations/maya-kaan/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/maya-ka-an/index.html",
+          "sha256": "f8162557f99c911fb151a40ebcc2d90ea7b473195eb5e472cfd8e942c3e32d4d"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/maya-ka-an/index.html",
+          "sha256": "c8c172ecf0a15ec7b0139ba1ceea7b225576a063ec12a17a300fb29dd40d3c57"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "playa-del-carmen",
+      "name": {
+        "es": "Playa del Carmen",
+        "en": "Playa del Carmen"
+      },
+      "summary": {
+        "es": "Playa del Carmen combina paseo urbano, costa y conexiones hacia otras experiencias. El mejor punto de partida es elegir qué quieres hacer sin salir de tu base.",
+        "en": "Playa del Carmen combines urban walks, the coast and connections to other experiences. Start by deciding what you want to enjoy without leaving your base."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Compara la cercanía a la playa y a los servicios con el ambiente nocturno de la zona. Pregunta por accesos, ruido y transporte antes de decidir por una dirección céntrica.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Compare proximity to the beach and services with the area's evening atmosphere. Ask about access, noise and transport before choosing a central address.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "playa-del-carmen-block-1",
+          "title": {
+            "es": "Quinta Avenida a tu ritmo",
+            "en": "Fifth Avenue at your pace"
+          },
+          "body": {
+            "es": "La Quinta Avenida es un paseo peatonal paralelo al mar. Haz de la comida el centro de este bloque, sin prometer un restaurante ni menú específico. Compara opciones cerca de tu recorrido, pregunta por ingredientes y precios y reserva tiempo para la sobremesa. Si hay alergias, habla directamente con el establecimiento antes de ordenar.",
+            "en": "Fifth Avenue is a pedestrian promenade parallel to the sea. Make a meal the focus of this block without assuming a particular restaurant or menu. Compare options near your route, ask about ingredients and prices, and leave time to linger. Discuss allergies directly with the establishment before ordering."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "playa-del-carmen-block-2",
+          "title": {
+            "es": "Un bloque para la costa",
+            "en": "A block of time for the coast"
+          },
+          "body": {
+            "es": "La playa forma parte de la vida cotidiana del destino. Conserva este bloque deliberadamente abierto. Elige una pausa, un paseo corto o una vista cercana según la accesibilidad y el clima. No necesitas añadir una actividad pagada para que el día tenga sentido. Ajusta el plan a las necesidades reales de quienes viajan contigo.",
+            "en": "The beach is part of the destination's everyday life. Keep this block deliberately open. Choose a break, a short walk or a nearby view according to access and weather. You do not need to add a paid activity for the day to feel worthwhile. Adapt the plan to the people travelling with you."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "playa-del-carmen-block-3",
+          "title": {
+            "es": "Preparar una posible visita a Cozumel",
+            "en": "Plan a possible Cozumel visit"
+          },
+          "body": {
+            "es": "Playa del Carmen cuenta con conexión marítima hacia Cozumel. Valora la actividad según tu experiencia y las condiciones reales, no solo por una fotografía. Consulta requisitos, equipo, acompañamiento, punto de encuentro y política de cambios. No reserves una salida acuática o remota sin saber cómo se manejaría una cancelación por condiciones adversas.",
+            "en": "Playa del Carmen has a sea connection to Cozumel. Assess the activity against your experience and actual conditions, not a photograph alone. Check requirements, equipment, supervision, meeting points and change policies. Before booking a water or remote outing, ask what happens if conditions require cancellation."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "playa-del-carmen-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Playa del Carmen, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Playa del Carmen, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "playa-del-carmen-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Playa del Carmen alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Playa del Carmen near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "playa-del-carmen-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Playa del Carmen o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Playa del Carmen or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "playa-del-carmen-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Playa del Carmen alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Playa del Carmen around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Pregunta por accesos a la costa y servicios incluidos; no todos los tramos frente a hoteles funcionan de la misma forma.",
+          "Consulta condiciones del mar y señalización local. La apariencia del agua no garantiza que sea adecuada para nadar.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Ask about coast access and included facilities; hotel-front areas do not all operate in the same way.",
+          "Check sea conditions and local signs. The appearance of the water does not guarantee it is suitable for swimming.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Playa del Carmen",
+          "url": "https://mexicancaribbean.travel/destinations/playa-del-carmen/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/playa-del-carmen/index.html",
+          "sha256": "fbab218d04c1a335db8add9763aeb6b386b3ecaa9167dc6420e01d7f52831cdc"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/playa-del-carmen/index.html",
+          "sha256": "2ed7cf9a1c51fbd8e8198c59e73f8bce4e49631a725c8d8ed85e94ef87b40768"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "puerto-morelos",
+      "name": {
+        "es": "Puerto Morelos",
+        "en": "Puerto Morelos"
+      },
+      "summary": {
+        "es": "Puerto Morelos combina un centro de escala cercana con el arrecife y las posibilidades de explorar cenotes tierra adentro.",
+        "en": "Puerto Morelos combines a small-scale centre with the reef and opportunities to explore cenotes inland."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Distingue entre alojarte cerca del centro, en la costa hotelera o tierra adentro. Confirma los traslados de cada salida y no supongas que el cenote elegido está junto a tu hotel.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Distinguish between staying near the centre, on the hotel coast or inland. Confirm transport for each outing and do not assume your chosen cenote is beside the hotel.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "puerto-morelos-block-1",
+          "title": {
+            "es": "La plaza y el faro",
+            "en": "The square and lighthouse"
+          },
+          "body": {
+            "es": "La plaza y el faro inclinado identifican el centro del puerto. Haz de la comida el centro de este bloque, sin prometer un restaurante ni menú específico. Compara opciones cerca de tu recorrido, pregunta por ingredientes y precios y reserva tiempo para la sobremesa. Si hay alergias, habla directamente con el establecimiento antes de ordenar.",
+            "en": "The square and leaning lighthouse mark the town centre. Make a meal the focus of this block without assuming a particular restaurant or menu. Compare options near your route, ask about ingredients and prices, and leave time to linger. Discuss allergies directly with the establishment before ordering."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "puerto-morelos-block-2",
+          "title": {
+            "es": "Conocer el arrecife con cuidado",
+            "en": "Explore the reef with care"
+          },
+          "body": {
+            "es": "El Parque Nacional Arrecife de Puerto Morelos protege el entorno marino. Valora la actividad según tu experiencia y las condiciones reales, no solo por una fotografía. Consulta requisitos, equipo, acompañamiento, punto de encuentro y política de cambios. No reserves una salida acuática o remota sin saber cómo se manejaría una cancelación por condiciones adversas.",
+            "en": "Puerto Morelos Reef National Park protects the marine environment. Assess the activity against your experience and actual conditions, not a photograph alone. Check requirements, equipment, supervision, meeting points and change policies. Before booking a water or remote outing, ask what happens if conditions require cancellation."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "puerto-morelos-block-3",
+          "title": {
+            "es": "Elegir un cenote",
+            "en": "Choose one cenote"
+          },
+          "body": {
+            "es": "La Ruta de los Cenotes se encuentra tierra adentro. Conserva este bloque deliberadamente abierto. Elige una pausa, un paseo corto o una vista cercana según la accesibilidad y el clima. No necesitas añadir una actividad pagada para que el día tenga sentido. Ajusta el plan a las necesidades reales de quienes viajan contigo.",
+            "en": "The Cenotes Route lies inland. Keep this block deliberately open. Choose a break, a short walk or a nearby view according to access and weather. You do not need to add a paid activity for the day to feel worthwhile. Adapt the plan to the people travelling with you."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "puerto-morelos-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Puerto Morelos, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Puerto Morelos, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "puerto-morelos-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Puerto Morelos alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Puerto Morelos near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "puerto-morelos-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Puerto Morelos o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Puerto Morelos or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "puerto-morelos-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Puerto Morelos alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Puerto Morelos around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Pregunta por accesos a la costa y servicios incluidos; no todos los tramos frente a hoteles funcionan de la misma forma.",
+          "Consulta condiciones del mar y señalización local. La apariencia del agua no garantiza que sea adecuada para nadar.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Ask about coast access and included facilities; hotel-front areas do not all operate in the same way.",
+          "Check sea conditions and local signs. The appearance of the water does not guarantee it is suitable for swimming.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Puerto Morelos",
+          "url": "https://mexicancaribbean.travel/destinations/puerto-morelos/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/puerto-morelos/index.html",
+          "sha256": "523d9d7c84b56c8248c673f38a0598818ba6432b450208241ec565e06f79c4ae"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/puerto-morelos/index.html",
+          "sha256": "22c9882dd2c59bf57d06d72f347bf966d3c718e98bbccee12b757afd5e8f21a4"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "tulum",
+      "name": {
+        "es": "Tulum",
+        "en": "Tulum"
+      },
+      "summary": {
+        "es": "En Tulum conviene distinguir el pueblo, la franja costera y la zona arqueológica. No son una sola parada ni comparten necesariamente la misma logística.",
+        "en": "In Tulum, distinguish the town, coastal strip and archaeological site. They are not a single stop and do not necessarily share the same logistics."
+      },
+      "introduction": {
+        "es": [
+          "Elige una base práctica",
+          "Elige tu base según el acceso que más utilizarás: servicios del pueblo, costa o visitas culturales. Comprueba cómo regresarás después de cada salida y suma los traslados al presupuesto.",
+          "Usa estos siete bloques para dar forma a una estancia de dos a siete días. Elige tus prioridades y acomoda llegada y salida a tu viaje real. Un bloque puede ocupar solo parte del día; no es un itinerario con horarios ni una promesa de que una actividad esté operando."
+        ],
+        "en": [
+          "Choose a practical base",
+          "Choose your base around the access you will use most: town services, the coast or cultural visits. Check your return arrangements and include transfers in the budget.",
+          "Use these seven blocks to shape a stay of two to seven days. Pick your priorities and rearrange arrival and departure around your actual journey. A block may take only part of a day; this is not a timed itinerary or a promise that an activity is operating."
+        ]
+      },
+      "sections": [
+        {
+          "id": "tulum-block-1",
+          "title": {
+            "es": "La ciudad maya frente al mar",
+            "en": "The Maya city facing the sea"
+          },
+          "body": {
+            "es": "La zona arqueológica de Tulum se asoma al Caribe. Elige una visita principal y deja espacio para leer el lugar en vez de acumular paradas. Busca contexto en la señalización o con un guía adecuado. Pregunta antes de fotografiar a personas, entrar en un espacio comunitario o participar en una actividad cultural.",
+            "en": "Tulum's archaeological site overlooks the Caribbean. Choose one main visit and leave time to understand the place rather than collecting stops. Look for context in signs or with a suitable guide. Ask before photographing people, entering a community space or joining a cultural activity."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "tulum-block-2",
+          "title": {
+            "es": "Una salida a un cenote",
+            "en": "An outing to one cenote"
+          },
+          "body": {
+            "es": "Los cenotes forman parte del paisaje de selva del destino. Valora la actividad según tu experiencia y las condiciones reales, no solo por una fotografía. Consulta requisitos, equipo, acompañamiento, punto de encuentro y política de cambios. No reserves una salida acuática o remota sin saber cómo se manejaría una cancelación por condiciones adversas.",
+            "en": "Cenotes are part of the destination's forest landscape. Assess the activity against your experience and actual conditions, not a photograph alone. Check requirements, equipment, supervision, meeting points and change policies. Before booking a water or remote outing, ask what happens if conditions require cancellation."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "tulum-block-3",
+          "title": {
+            "es": "Pueblo y cocina local",
+            "en": "Town and local food"
+          },
+          "body": {
+            "es": "El pueblo concentra comercios y servicios. Elige una visita principal y deja espacio para leer el lugar en vez de acumular paradas. Busca contexto en la señalización o con un guía adecuado. Pregunta antes de fotografiar a personas, entrar en un espacio comunitario o participar en una actividad cultural.",
+            "en": "The town brings together shops and services. Choose one main visit and leave time to understand the place rather than collecting stops. Look for context in signs or with a suitable guide. Ask before photographing people, entering a community space or joining a cultural activity."
+          },
+          "check": {
+            "es": "Para organizarte: Confirma acceso, requisitos, costos y transporte directamente antes de decidir.",
+            "en": "Planning note: Confirm access, requirements, costs and transport directly before deciding."
+          }
+        },
+        {
+          "id": "tulum-block-4",
+          "title": {
+            "es": "Llegar y orientarte",
+            "en": "Arrive and get your bearings"
+          },
+          "body": {
+            "es": "Dedica el primer bloque a llegar a tu base en Tulum, ubicar los servicios que necesitas y comprobar cómo moverte. Guarda la dirección y el regreso disponibles sin depender de conexión constante. Si la llegada ocupa gran parte del día, no añadas una excursión; usa este espacio para descansar y acordar el plan del grupo.",
+            "en": "Use your first block to reach your base in Tulum, locate the services you need and confirm how to get around. Keep your address and return arrangements accessible without a constant connection. If arrival takes much of the day, skip an excursion; use this time to rest and agree on the group's plan."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "tulum-block-5",
+          "title": {
+            "es": "Una comida, sin correr",
+            "en": "An unhurried meal"
+          },
+          "body": {
+            "es": "Reserva un bloque para explorar la comida de Tulum alrededor de tu base, sin cruzar todo el destino entre platos. Elige el establecimiento por su menú real, acceso y condiciones, no por una recomendación genérica. Pregunta por ingredientes, porciones y cargos antes de pedir. Acuerda transporte de regreso si el grupo va a consumir alcohol.",
+            "en": "Set aside a block to explore food in Tulum near your base, without crossing the entire destination between courses. Choose a venue using its actual menu, access and conditions rather than a generic recommendation. Ask about ingredients, portions and charges before ordering. Arrange return transport if your group plans to drink alcohol."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "tulum-block-6",
+          "title": {
+            "es": "Un día con espacio",
+            "en": "A day with breathing room"
+          },
+          "body": {
+            "es": "Deja un bloque sin compromisos para repetir lo que más te haya gustado de Tulum o adaptar el viaje al clima. Una pausa en el alojamiento y un paseo apropiado para el grupo son opciones válidas. No uses este día libre para añadir automáticamente otro destino: confirma primero traslado, acceso y tiempo disponible.",
+            "en": "Leave an uncommitted block to return to what you enjoyed in Tulum or adapt the trip to the weather. Resting at your accommodation and taking a suitable local walk are worthwhile options. Do not automatically turn this free day into another destination: first confirm transport, access and the time available."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        },
+        {
+          "id": "tulum-block-7",
+          "title": {
+            "es": "Cerrar el viaje con margen",
+            "en": "Leave room for departure"
+          },
+          "body": {
+            "es": "Organiza el último bloque de Tulum alrededor de tu salida real. Revisa recogida, equipaje, conexión y condiciones del transporte. Una comida cercana o un paseo corto funcionan solo si no ponen en riesgo el regreso. Conserva las confirmaciones de los servicios contratados y distingue una reserva confirmada de una sugerencia guardada en esta guía.",
+            "en": "Plan your last block in Tulum around your actual departure. Check pickup, luggage, connections and transport conditions. A nearby meal or short walk works only if it does not put the return at risk. Keep confirmations for services you booked and distinguish a confirmed reservation from a suggestion saved in this guide."
+          },
+          "check": {
+            "es": "Para organizarte: Este bloque es una sugerencia flexible, no una actividad contratada. Ajústalo a tus fechas y a tu base.",
+            "en": "Planning note: This is a flexible suggestion, not a contracted activity. Adapt it to your dates and base."
+          }
+        }
+      ],
+      "beforeBooking": {
+        "es": [
+          "Pregunta por accesos a la costa y servicios incluidos; no todos los tramos frente a hoteles funcionan de la misma forma.",
+          "Consulta condiciones del mar y señalización local. La apariencia del agua no garantiza que sea adecuada para nadar.",
+          "Comprueba accesibilidad y condiciones para menores directamente. No hay precios, cupos ni servicios confirmados en esta guía."
+        ],
+        "en": [
+          "Ask about coast access and included facilities; hotel-front areas do not all operate in the same way.",
+          "Check sea conditions and local signs. The appearance of the water does not guarantee it is suitable for swimming.",
+          "Check accessibility and conditions for children directly. This guide does not confirm prices, spaces or services."
+        ]
+      },
+      "sources": [
+        {
+          "label": "Mexican Caribbean · Tulum",
+          "url": "https://mexicancaribbean.travel/destinations/tulum/"
+        }
+      ],
+      "sourceFiles": [
+        {
+          "locale": "es",
+          "path": "TravelMexico_Local/baseline/guias/tulum/index.html",
+          "sha256": "6a4d94b2a751ee27ec2d3375e76f4683a466d604faeb1979e0da7601fc26734b"
+        },
+        {
+          "locale": "en",
+          "path": "TravelMexico_Local/baseline/en/guias/tulum/index.html",
+          "sha256": "8e9ab8561db70dc4adc3b0519b87dbc0786562dfed56164feb49db3e1c651398"
+        }
+      ],
+      "checkedOn": "2026-11-06"
+    }
+  ]
+}

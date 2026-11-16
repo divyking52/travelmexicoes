@@ -1,0 +1,2468 @@
+{
+  "schemaVersion": 1,
+  "site": {
+    "en": {
+      "headline": "Let México\nmove you.",
+      "tagline": "Book with a Specialist in México. Choose Warmth.",
+      "description": "Explore México with destination guides, My México. My Way and the existing TravelMexico reservation engine."
+    },
+    "es": {
+      "headline": "México.\nTe Queremos. Aquí.",
+      "tagline": "Reserva con un Especialista en México. Elige la calidez.",
+      "description": "Descubre México con guías de destinos, My México. My Way y el motor de reservaciones de TravelMexico."
+    }
+  },
+  "destinations": [
+    {
+      "id": "tijuana",
+      "name": "Tijuana",
+      "tag": [
+        "Cultura de frontera",
+        "Border culture"
+      ],
+      "blurb": [
+        "Una ciudad para probar, crear y dejarse sorprender.",
+        "A city to taste, create and be surprised by."
+      ],
+      "intro": [
+        "Tijuana reúne gastronomía, arte y vida urbana en la frontera. Descubre la tradición de la ensalada César, el Centro Cultural Tijuana y una escena culinaria que invita a quedarse.",
+        "Tijuana brings food, art and urban life together at the border. Discover the Caesar salad tradition, the Tijuana Cultural Center and a culinary scene worth staying for."
+      ],
+      "themes": [
+        "ciudad",
+        "sabor"
+      ],
+      "image": "tijuana",
+      "photo": [
+        "Centro Cultural Tijuana",
+        "Tijuana Cultural Center"
+      ],
+      "official": "https://www.bajacalifornia.travel/es/destinos/tijuana",
+      "supplier": "Quartz Hotel & Spa",
+      "url": "https://www.quartzhotel.mx/",
+      "stops": [
+        [
+          "Arte y cultura",
+          "Arts & culture"
+        ],
+        [
+          "Cocina de Tijuana",
+          "Tijuana food scene"
+        ],
+        [
+          "Una estancia urbana",
+          "An urban stay"
+        ]
+      ],
+      "detail": [
+        [
+          "Explora la programación del Centro Cultural Tijuana y confirma horarios antes de visitar.",
+          "Explore the Tijuana Cultural Center program and check opening hours before you go."
+        ],
+        [
+          "Busca tacos, cocina regional y la historia de la ensalada César. Consulta directamente con cada restaurante.",
+          "Discover tacos, regional cooking and the Caesar salad story. Check directly with each restaurant."
+        ],
+        [
+          "Consulta opciones de alojamiento, ubicación y disponibilidad en el sitio del prestador.",
+          "Check lodging options, location and availability with the provider."
+        ]
+      ],
+      "route": [
+        "Desde California, cruza por un puerto fronterizo autorizado. Consulta documentación y condiciones actuales.",
+        "From California, use an authorized border crossing. Check documents and current conditions."
+      ]
+    },
+    {
+      "id": "ensenada",
+      "name": "Ensenada",
+      "tag": [
+        "El Pacífico a tu mesa",
+        "The Pacific at your table"
+      ],
+      "blurb": [
+        "Mar, cocina y caminos que llevan al vino.",
+        "Ocean, food and roads that lead to wine."
+      ],
+      "intro": [
+        "La costa de Ensenada combina paseo marítimo, gastronomía y acceso a los valles vinícolas. Construye un viaje que deje espacio para el paisaje y para una buena sobremesa.",
+        "Ensenada combines a Pacific waterfront, food and access to the wine valleys. Build a trip with room for the landscape and a long, leisurely meal."
+      ],
+      "themes": [
+        "mar",
+        "sabor"
+      ],
+      "image": null,
+      "photo": [
+        "Ilustración de costa",
+        "Coast illustration"
+      ],
+      "official": "https://www.bajacalifornia.travel/es/destinos/ensenada",
+      "supplier": "Hotel Coral & Marina",
+      "url": "https://www.hotelcoral.com/",
+      "stops": [
+        [
+          "Un día frente al mar",
+          "A waterfront day"
+        ],
+        [
+          "Cocina de costa",
+          "Coastal flavors"
+        ],
+        [
+          "Extiende hacia el valle",
+          "Continue to the valley"
+        ]
+      ],
+      "detail": [
+        [
+          "Explora el paseo marítimo y consulta experiencias de naturaleza con operadores locales.",
+          "Explore the waterfront and ask local operators about nature experiences."
+        ],
+        [
+          "La cocina marina es una buena entrada al destino. Verifica horarios y reservas directamente.",
+          "Seafood is a great introduction to the destination. Verify hours and reservations directly."
+        ],
+        [
+          "Combina Ensenada con Valle de Guadalupe; elige un conductor designado si degustas vino.",
+          "Combine Ensenada with Valle de Guadalupe; use a designated driver for wine tasting."
+        ]
+      ],
+      "route": [
+        "La carretera escénica conecta Tijuana, Rosarito y Ensenada. Verifica condiciones y peajes antes de salir.",
+        "The scenic highway connects Tijuana, Rosarito and Ensenada. Check conditions and tolls before departure."
+      ]
+    },
+    {
+      "id": "mexicali",
+      "name": "Mexicali",
+      "tag": [
+        "Desierto con carácter",
+        "Desert with character"
+      ],
+      "blurb": [
+        "Historias, sabores y una identidad inesperada.",
+        "Stories, flavors and an unexpected identity."
+      ],
+      "intro": [
+        "Mexicali conecta el desierto con una historia cultural singular. La Chinesca, el centro histórico y la cocina china-mexicana dan forma a una escapada distinta.",
+        "Mexicali connects the desert with a distinctive cultural history. La Chinesca, the historic center and Chinese-Mexican cooking make for a different kind of getaway."
+      ],
+      "themes": [
+        "ciudad",
+        "sabor"
+      ],
+      "image": null,
+      "photo": [
+        "Ilustración de desierto",
+        "Desert illustration"
+      ],
+      "official": "https://www.bajacalifornia.travel/es/destinos/mexicali",
+      "supplier": "Hotel Araiza Mexicali",
+      "url": "https://www.araizahoteles.com/araiza/?lang=es",
+      "stops": [
+        [
+          "La Chinesca",
+          "La Chinesca"
+        ],
+        [
+          "Una mesa multicultural",
+          "A multicultural table"
+        ],
+        [
+          "Puerta al desierto",
+          "Gateway to the desert"
+        ]
+      ],
+      "detail": [
+        [
+          "Conoce esta zona y su historia con una visita local. Confirma acceso y horarios con el operador.",
+          "Discover the area and its history on a local visit. Confirm access and hours with the operator."
+        ],
+        [
+          "Explora la tradición de comida china de Mexicali y su encuentro con la cocina mexicana.",
+          "Explore Mexicali’s Chinese food tradition and its meeting with Mexican cooking."
+        ],
+        [
+          "Planea actividades según clima y temporada. Lleva agua y evita exponerte al calor extremo.",
+          "Plan activities around the weather and season. Carry water and avoid extreme heat."
+        ]
+      ],
+      "route": [
+        "Desde Arizona, planifica un cruce terrestre autorizado hacia la región de Mexicali. No se prometen vuelos directos.",
+        "From Arizona, plan an authorized land crossing toward Mexicali. No direct flights are promised."
+      ]
+    },
+    {
+      "id": "rosarito",
+      "name": "Rosarito",
+      "tag": [
+        "Escápate al Pacífico",
+        "Escape to the Pacific"
+      ],
+      "blurb": [
+        "Olas, costa y una pausa cerca de la frontera.",
+        "Waves, coastline and a pause near the border."
+      ],
+      "intro": [
+        "Rosarito invita a cambiar de ritmo entre playas del Pacífico, surf y la tradición de langosta estilo Puerto Nuevo. Una escapada que se disfruta con tiempo.",
+        "Rosarito invites you to slow down with Pacific beaches, surfing and Puerto Nuevo-style lobster. A getaway best enjoyed at your own pace."
+      ],
+      "themes": [
+        "mar",
+        "sabor"
+      ],
+      "image": "rosarito",
+      "photo": [
+        "Playa de Rosarito",
+        "Rosarito beach"
+      ],
+      "official": "https://www.bajacalifornia.travel/es/destinos/rosarito",
+      "supplier": "Rosarito Beach Hotel",
+      "url": "https://www.rosaritobeachhotel.com/",
+      "stops": [
+        [
+          "Tiempo de playa",
+          "Beach time"
+        ],
+        [
+          "La mesa de Puerto Nuevo",
+          "Puerto Nuevo flavors"
+        ],
+        [
+          "Una noche en la costa",
+          "A coastal overnight"
+        ]
+      ],
+      "detail": [
+        [
+          "Consulta condiciones del mar, accesos y operadores de surf antes de entrar al agua.",
+          "Check ocean conditions, access and surf operators before entering the water."
+        ],
+        [
+          "Prueba la tradición de langosta estilo Puerto Nuevo. Confirma menú y precio con el restaurante.",
+          "Try the Puerto Nuevo lobster tradition. Confirm menus and prices with the restaurant."
+        ],
+        [
+          "Consulta opciones directamente con el hotel y confirma políticas para tus fechas.",
+          "Check options directly with the hotel and confirm policies for your dates."
+        ]
+      ],
+      "route": [
+        "Acceso terrestre desde California por un cruce autorizado; continúa por la costa desde Tijuana.",
+        "Land access from California through an authorized crossing, then south along the coast from Tijuana."
+      ]
+    },
+    {
+      "id": "tecate",
+      "name": "Tecate",
+      "tag": [
+        "Respira más despacio",
+        "Take a slower breath"
+      ],
+      "blurb": [
+        "Pan artesanal, bienestar y paisajes abiertos.",
+        "Artisan bread, wellness and open landscapes."
+      ],
+      "intro": [
+        "El Pueblo Mágico de Tecate se descubre entre pan artesanal, bienestar y paisajes de montaña. La Rumorosa ofrece otra perspectiva de la región.",
+        "The Pueblo Mágico of Tecate unfolds through artisan bread, wellness and mountain landscapes. La Rumorosa offers another perspective on the region."
+      ],
+      "themes": [
+        "naturaleza",
+        "bienestar"
+      ],
+      "image": null,
+      "photo": [
+        "Ilustración de montaña",
+        "Mountain illustration"
+      ],
+      "official": "https://www.bajacalifornia.travel/es/destinos/tecate",
+      "supplier": "Santuario Diegueño",
+      "url": "https://santuariodiegueno.com/es/",
+      "stops": [
+        [
+          "El centro con calma",
+          "A slower town center"
+        ],
+        [
+          "Una pausa de bienestar",
+          "A wellness pause"
+        ],
+        [
+          "La Rumorosa",
+          "La Rumorosa"
+        ]
+      ],
+      "detail": [
+        [
+          "Recorre el centro y descubre la tradición de pan artesanal de Tecate.",
+          "Walk the center and discover Tecate’s artisan bread tradition."
+        ],
+        [
+          "Explora opciones de estancia y bienestar. Consulta tratamientos, acceso y condiciones con el prestador.",
+          "Explore lodging and wellness options. Check treatments, access and terms with the provider."
+        ],
+        [
+          "Consulta condiciones del camino y del clima antes de recorrer la región de La Rumorosa.",
+          "Check road and weather conditions before traveling through La Rumorosa."
+        ]
+      ],
+      "route": [
+        "La carretera federal 2 conecta Tecate con Mexicali por La Rumorosa. Revisa el clima antes de viajar.",
+        "Federal Highway 2 connects Tecate and Mexicali through La Rumorosa. Check the weather before traveling."
+      ]
+    },
+    {
+      "id": "san-quintin",
+      "name": "San Quintín",
+      "tag": [
+        "Naturaleza a otro ritmo",
+        "Nature at another pace"
+      ],
+      "blurb": [
+        "Humedales, bahías y el sabor del origen.",
+        "Wetlands, bays and a taste of the source."
+      ],
+      "intro": [
+        "San Quintín reúne bahías del Pacífico, humedales y una importante tradición acuícola. Un destino para observar la naturaleza y conocer el origen de los sabores del mar.",
+        "San Quintín brings together Pacific bays, wetlands and an aquaculture tradition. A place to observe nature and discover where coastal flavors begin."
+      ],
+      "themes": [
+        "naturaleza",
+        "mar",
+        "sabor"
+      ],
+      "image": "san-quintin",
+      "photo": [
+        "Bahía de San Quintín",
+        "San Quintín Bay"
+      ],
+      "official": "https://www.bajacalifornia.travel/es/destinos/san-quintin",
+      "supplier": "Hotel Misión Santa María",
+      "url": "https://misionsantamariahoteles.com/en",
+      "stops": [
+        [
+          "Paisaje de bahía",
+          "Bay landscapes"
+        ],
+        [
+          "El origen del sabor",
+          "Where flavor begins"
+        ],
+        [
+          "Viaja con respeto",
+          "Travel with care"
+        ]
+      ],
+      "detail": [
+        [
+          "Observa paisajes y aves sin salir de accesos permitidos. Consulta recorridos locales.",
+          "Enjoy landscapes and birds from permitted areas. Ask about local excursions."
+        ],
+        [
+          "Conoce la producción de ostión y abulón mediante experiencias disponibles con prestadores.",
+          "Learn about oyster and abalone production through experiences offered by providers."
+        ],
+        [
+          "Respeta humedales, fauna y comunidades. Confirma accesos y logística antes del viaje.",
+          "Respect wetlands, wildlife and local communities. Confirm access and logistics before traveling."
+        ]
+      ],
+      "route": [
+        "Organiza un itinerario terrestre por Baja California. Verifica distancias, combustible y condiciones del camino.",
+        "Plan a road itinerary through Baja California. Check distances, fuel and road conditions."
+      ]
+    },
+    {
+      "id": "san-felipe",
+      "name": "San Felipe",
+      "tag": [
+        "Desierto junto al mar",
+        "Desert meets the sea"
+      ],
+      "blurb": [
+        "La otra costa: horizonte, mareas y cardones.",
+        "The other coast: horizons, tides and giant cacti."
+      ],
+      "intro": [
+        "San Felipe mira al golfo de California. Sus mareas, cocina marina y el paisaje de cardones del Valle de los Gigantes invitan a una escapada de naturaleza.",
+        "San Felipe looks out over the Gulf of California. Its tides, seafood and the cardón cacti of Valle de los Gigantes invite a nature-focused escape."
+      ],
+      "themes": [
+        "mar",
+        "naturaleza"
+      ],
+      "image": null,
+      "photo": [
+        "Ilustración de golfo y desierto",
+        "Gulf and desert illustration"
+      ],
+      "official": "https://www.bajacalifornia.travel/es/destinos/san-felipe",
+      "supplier": "Las Palmas Hotel",
+      "url": "https://laspalmassanfelipe.com/",
+      "stops": [
+        [
+          "El golfo de California",
+          "The Gulf of California"
+        ],
+        [
+          "Valle de los Gigantes",
+          "Valle de los Gigantes"
+        ],
+        [
+          "Cocina del mar",
+          "Seafood traditions"
+        ]
+      ],
+      "detail": [
+        [
+          "Consulta mareas y condiciones de playa. El paisaje cambia notablemente con el nivel del agua.",
+          "Check tides and beach conditions. The landscape changes considerably with the water level."
+        ],
+        [
+          "Pregunta por acceso, horarios y recorridos en esta reserva de cardones.",
+          "Ask about access, opening hours and tours at this cardón cactus reserve."
+        ],
+        [
+          "Busca la oferta gastronómica local y confirma servicio directamente con el prestador.",
+          "Discover local dining and confirm service directly with the provider."
+        ]
+      ],
+      "route": [
+        "La carretera federal 5 conecta Mexicali con San Felipe. Planea agua, combustible y descansos.",
+        "Federal Highway 5 connects Mexicali and San Felipe. Plan water, fuel and rest stops."
+      ]
+    },
+    {
+      "id": "valle-de-guadalupe",
+      "name": "Valle de Guadalupe",
+      "tag": [
+        "El paisaje se saborea",
+        "A landscape to savor"
+      ],
+      "blurb": [
+        "Vino, mesas memorables y días sin prisa.",
+        "Wine, memorable tables and unhurried days."
+      ],
+      "intro": [
+        "Valle de Guadalupe, región vinícola de Ensenada, reúne degustaciones, cocina Baja Med y estancias entre paisajes abiertos. Reserva cada visita con anticipación y viaja con conductor designado.",
+        "Valle de Guadalupe, Ensenada’s wine region, brings together tastings, Baja Med cooking and stays in open landscapes. Book visits ahead and travel with a designated driver."
+      ],
+      "themes": [
+        "vino",
+        "sabor",
+        "bienestar"
+      ],
+      "image": "valle",
+      "photo": [
+        "Viñedo en Valle de Guadalupe",
+        "Vineyard in Valle de Guadalupe"
+      ],
+      "official": "https://www.bajacalifornia.travel/es/rutas/el-valle-de-guadalupe",
+      "supplier": "Bruma Wine Resort",
+      "url": "https://www.brumawineresort.com/",
+      "stops": [
+        [
+          "Agenda una degustación",
+          "Plan a tasting"
+        ],
+        [
+          "Una mesa en el valle",
+          "A table in the valley"
+        ],
+        [
+          "Quédate una noche más",
+          "Stay another night"
+        ]
+      ],
+      "detail": [
+        [
+          "Elige bodegas y confirma horarios, cupos, edad mínima y condiciones directamente.",
+          "Choose wineries and confirm hours, capacity, minimum age and terms directly."
+        ],
+        [
+          "Explora la cocina Baja Med. Confirma disponibilidad y requisitos de reserva con cada restaurante.",
+          "Explore Baja Med cuisine. Confirm availability and booking requirements with each restaurant."
+        ],
+        [
+          "Consulta hoteles y opciones de estancia. Las tarifas y políticas dependen de tus fechas.",
+          "Explore lodging options. Rates and policies depend on your dates."
+        ]
+      ],
+      "route": [
+        "Combina el valle con Ensenada o Tecate. Planea traslados y conductor designado para degustaciones.",
+        "Combine the valley with Ensenada or Tecate. Arrange transfers and a designated driver for tastings."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "id": "tijuana",
+      "title": {
+        "en": "Tijuana",
+        "es": "Tijuana"
+      },
+      "subtitle": {
+        "es": "La frontera se vive a través del sabor y la creatividad.",
+        "en": "Experience the border through food and creativity."
+      },
+      "editorialTitle": {
+        "es": "Una ciudad.<br>Muchas formas<br>de <em>crear.</em>",
+        "en": "One city.<br>Many ways<br>to <em>create.</em>"
+      },
+      "articleTitle": {
+        "es": "Frontera creativa y gastronómica",
+        "en": "Creative food-forward border city"
+      },
+      "image": "tijuana.webp",
+      "color": "#a7452f",
+      "sources": [
+        {
+          "label": "Baja California · Tijuana",
+          "url": "https://www.bajacalifornia.travel/es/destinos/tijuana"
+        },
+        {
+          "label": "Quartz Hotel & Spa",
+          "url": "https://www.quartzhotel.mx/"
+        }
+      ],
+      "pages": [
+        {
+          "title": {
+            "es": "Tijuana",
+            "en": "Tijuana"
+          },
+          "body": {
+            "es": [
+              "La frontera se vive a través del sabor y la creatividad.",
+              "Para ti si piensas: «Quiero una escapada urbana con sabores e historias que no encuentro en otro lugar.»"
+            ],
+            "en": [
+              "Experience the border through food and creativity.",
+              "For you if you think: “I want a city escape with flavors and stories I cannot find elsewhere.”"
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        },
+        {
+          "title": {
+            "es": "Tres formas de vivirlo.",
+            "en": "Three ways to experience it."
+          },
+          "body": {
+            "es": [
+              "Empieza por la cocina: tacos, cervecerías artesanales y la historia de la ensalada César cuentan distintas versiones de la ciudad. Consulta horarios y reserva cada mesa directamente.",
+              "El Centro Cultural Tijuana y las expresiones de arte fronterizo añaden contexto a lo que pruebas. Combina una visita cultural con una comida; no reduzcas la ciudad a una escala de paso."
+            ],
+            "en": [
+              "Start with the food: tacos, craft breweries and the Caesar salad story reveal different sides of the city. Check hours and book each table directly.",
+              "The Tijuana Cultural Center and border art give context to what you taste. Pair a cultural visit with a meal; do not treat the city only as a stop on the way elsewhere."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Tacos y cerveza artesanal",
+              "Arte y cultura de frontera",
+              "La historia de la ensalada César"
+            ],
+            "en": [
+              "Tacos and craft beer",
+              "Border art and culture",
+              "The Caesar salad story"
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Dale tu ritmo.",
+            "en": "Make it your own."
+          },
+          "body": {
+            "es": [
+              "Desde California, cruza por un puerto fronterizo autorizado. Consulta documentación y condiciones actuales.",
+              "Separa el cruce fronterizo de tu agenda de actividades. CBX sirve a pasajeros del aeropuerto de Tijuana, no a cualquier viaje terrestre."
+            ],
+            "en": [
+              "From California, use an authorized border crossing. Check documents and current conditions.",
+              "Plan border logistics separately from your activities. CBX serves Tijuana airport passengers, not every road trip."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Separa visitas locales de salidas regionales.",
+              "Confirma horarios, accesos y condiciones.",
+              "Deja margen para cambios de clima o traslado."
+            ],
+            "en": [
+              "Separate local visits from regional outings.",
+              "Confirm hours, access and conditions.",
+              "Allow room for weather or transport changes."
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Planea y conecta.",
+            "en": "Plan and connect."
+          },
+          "body": {
+            "es": [
+              "Empieza por lo que buscas: Gastronomía · cultura urbana · amigos. Añade este destino a tu solicitud local y combina intereses sin convertirlos en un itinerario cerrado.",
+              "Alojamiento para consultar: Quartz Hotel & Spa. El enlace al sitio del prestador aparece al pie. Confirma precio total, disponibilidad, inclusiones y cancelación para tus fechas."
+            ],
+            "en": [
+              "Start with what you want: Food · urban culture · friends. Add this destination to your local brief and combine interests without turning them into a fixed itinerary.",
+              "Lodging to explore: Quartz Hotel & Spa. The provider link is at the foot of the page. Confirm total price, availability, inclusions and cancellation terms for your dates."
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ensenada",
+      "title": {
+        "en": "Ensenada",
+        "es": "Ensenada"
+      },
+      "subtitle": {
+        "es": "Un puerto para saborear el Pacífico y salir a explorar.",
+        "en": "A Pacific port for seafood and outdoor discovery."
+      },
+      "editorialTitle": {
+        "es": "El Pacífico<br>se sirve<br>a la <em>mesa.</em>",
+        "en": "The Pacific,<br>served at<br>your <em>table.</em>"
+      },
+      "articleTitle": {
+        "es": "Puerto del Pacífico y cocina marina",
+        "en": "Pacific port and coastal food"
+      },
+      "image": "ensenada.webp",
+      "color": "#206c78",
+      "sources": [
+        {
+          "label": "Baja California · Ensenada",
+          "url": "https://www.bajacalifornia.travel/es/destinos/ensenada"
+        },
+        {
+          "label": "Hotel Coral & Marina",
+          "url": "https://www.hotelcoral.com/"
+        }
+      ],
+      "pages": [
+        {
+          "title": {
+            "es": "Ensenada",
+            "en": "Ensenada"
+          },
+          "body": {
+            "es": [
+              "Un puerto para saborear el Pacífico y salir a explorar.",
+              "Para ti si piensas: «Quiero combinar buena comida de mar con una escapada activa de costa.»"
+            ],
+            "en": [
+              "A Pacific port for seafood and outdoor discovery.",
+              "For you if you think: “I want great seafood and an active coastal escape.”"
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        },
+        {
+          "title": {
+            "es": "Tres formas de vivirlo.",
+            "en": "Three ways to experience it."
+          },
+          "body": {
+            "es": [
+              "El paseo del puerto y la cocina marina son un buen punto de partida para entender Ensenada. Su identidad es la de una ciudad frente al Pacífico, con sabores que nacen del mar.",
+              "La Bufadora y San Miguel ofrecen dos salidas distintas: paisaje costero y surf. Son excursiones que necesitan su propia logística. Valle de Guadalupe merece un capítulo aparte, no sustituye a la experiencia del puerto."
+            ],
+            "en": [
+              "The port promenade and seafood make a good introduction to Ensenada. Its identity is that of a Pacific city, with flavors rooted in the sea.",
+              "La Bufadora and San Miguel offer different outings: coastal scenery and surf. Each needs its own logistics. Valle de Guadalupe deserves a separate chapter; it does not replace the port experience."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Paseo del puerto y cocina marina",
+              "La Bufadora",
+              "Surf en San Miguel"
+            ],
+            "en": [
+              "Port promenade and seafood",
+              "La Bufadora",
+              "Surf at San Miguel"
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Dale tu ritmo.",
+            "en": "Make it your own."
+          },
+          "body": {
+            "es": [
+              "La carretera escénica conecta Tijuana, Rosarito y Ensenada. Verifica condiciones y peajes antes de salir.",
+              "Distingue las visitas urbanas de las excursiones. Verifica condiciones del mar, accesos, transporte y nivel de surf con operadores locales."
+            ],
+            "en": [
+              "The scenic highway connects Tijuana, Rosarito and Ensenada. Check conditions and tolls before departure.",
+              "Distinguish city visits from excursions. Verify ocean conditions, access, transport and surf ability requirements with local operators."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Separa visitas locales de salidas regionales.",
+              "Confirma horarios, accesos y condiciones.",
+              "Deja margen para cambios de clima o traslado."
+            ],
+            "en": [
+              "Separate local visits from regional outings.",
+              "Confirm hours, access and conditions.",
+              "Allow room for weather or transport changes."
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Planea y conecta.",
+            "en": "Plan and connect."
+          },
+          "body": {
+            "es": [
+              "Empieza por lo que buscas: Cocina marina · costa · aventura. Añade este destino a tu solicitud local y combina intereses sin convertirlos en un itinerario cerrado.",
+              "Alojamiento para consultar: Hotel Coral & Marina. El enlace al sitio del prestador aparece al pie. Confirma precio total, disponibilidad, inclusiones y cancelación para tus fechas."
+            ],
+            "en": [
+              "Start with what you want: Seafood · coast · adventure. Add this destination to your local brief and combine interests without turning them into a fixed itinerary.",
+              "Lodging to explore: Hotel Coral & Marina. The provider link is at the foot of the page. Confirm total price, availability, inclusions and cancellation terms for your dates."
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "mexicali",
+      "title": {
+        "en": "Mexicali",
+        "es": "Mexicali"
+      },
+      "subtitle": {
+        "es": "Historia chino-mexicana y sabores propios en el corazón del desierto.",
+        "en": "Chinese-Mexican heritage and distinctive flavors in the desert."
+      },
+      "editorialTitle": {
+        "es": "Dos culturas.<br>Un sabor<br><em>propio.</em>",
+        "en": "Two cultures.<br>A flavor<br>all its <em>own.</em>"
+      },
+      "articleTitle": {
+        "es": "Herencia chino-mexicana y desierto",
+        "en": "Chinese-Mexican heritage and desert"
+      },
+      "image": "mexicali.webp",
+      "color": "#985835",
+      "sources": [
+        {
+          "label": "Baja California · Mexicali",
+          "url": "https://www.bajacalifornia.travel/es/destinos/mexicali"
+        },
+        {
+          "label": "Hotel Araiza Mexicali",
+          "url": "https://www.araizahoteles.com/araiza/?lang=es"
+        }
+      ],
+      "pages": [
+        {
+          "title": {
+            "es": "Mexicali",
+            "en": "Mexicali"
+          },
+          "body": {
+            "es": [
+              "Historia chino-mexicana y sabores propios en el corazón del desierto.",
+              "Para ti si piensas: «Quiero descubrir una historia cultural inesperada y probar su cocina.»"
+            ],
+            "en": [
+              "Chinese-Mexican heritage and distinctive flavors in the desert.",
+              "For you if you think: “I want an unexpected cultural story and the food that tells it.”"
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        },
+        {
+          "title": {
+            "es": "Tres formas de vivirlo.",
+            "en": "Three ways to experience it."
+          },
+          "body": {
+            "es": [
+              "La Chinesca y el centro histórico permiten acercarse a la herencia china de Mexicali. La experiencia continúa en la mesa, donde esta historia se reconoce en una tradición culinaria propia.",
+              "Para un segundo ritmo, consulta opciones hacia Río Hardy o las dunas de Cuervitos. Son salidas regionales, no paradas a pie del centro. Organiza transporte, condiciones y la actividad adecuada para tu grupo."
+            ],
+            "en": [
+              "La Chinesca and the historic center introduce Mexicali’s Chinese heritage. The story continues at the table through a distinctive local culinary tradition.",
+              "For a change of pace, explore options toward Río Hardy or the Cuervitos dunes. These are regional outings, not walkable stops from the center. Arrange transport and a suitable activity for your group."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "La Chinesca y centro histórico",
+              "Cocina chino-mexicana",
+              "Río Hardy o dunas de Cuervitos"
+            ],
+            "en": [
+              "La Chinesca and historic center",
+              "Chinese-Mexican cooking",
+              "Río Hardy or Cuervitos dunes"
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Dale tu ritmo.",
+            "en": "Make it your own."
+          },
+          "body": {
+            "es": [
+              "Desde Arizona, planifica un cruce terrestre autorizado hacia la región de Mexicali. No se prometen vuelos directos.",
+              "El calor puede determinar la experiencia. Planea horarios, agua y transporte según el clima; confirma cualquier actividad de río o desierto."
+            ],
+            "en": [
+              "From Arizona, plan an authorized land crossing toward Mexicali. No direct flights are promised.",
+              "Heat can shape the experience. Plan timing, water and transport for the weather; confirm any river or desert activity."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Separa visitas locales de salidas regionales.",
+              "Confirma horarios, accesos y condiciones.",
+              "Deja margen para cambios de clima o traslado."
+            ],
+            "en": [
+              "Separate local visits from regional outings.",
+              "Confirm hours, access and conditions.",
+              "Allow room for weather or transport changes."
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Planea y conecta.",
+            "en": "Plan and connect."
+          },
+          "body": {
+            "es": [
+              "Empieza por lo que buscas: Patrimonio · gastronomía · aire libre. Añade este destino a tu solicitud local y combina intereses sin convertirlos en un itinerario cerrado.",
+              "Alojamiento para consultar: Hotel Araiza Mexicali. El enlace al sitio del prestador aparece al pie. Confirma precio total, disponibilidad, inclusiones y cancelación para tus fechas."
+            ],
+            "en": [
+              "Start with what you want: Heritage · food · outdoors. Add this destination to your local brief and combine interests without turning them into a fixed itinerary.",
+              "Lodging to explore: Hotel Araiza Mexicali. The provider link is at the foot of the page. Confirm total price, availability, inclusions and cancellation terms for your dates."
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "rosarito",
+      "title": {
+        "en": "Rosarito",
+        "es": "Rosarito"
+      },
+      "subtitle": {
+        "es": "Olas del Pacífico y langosta de Puerto Nuevo.",
+        "en": "Pacific surf and Puerto Nuevo lobster."
+      },
+      "editorialTitle": {
+        "es": "Una ola.<br>Una mesa.<br>Tu <em>escapada.</em>",
+        "en": "One wave.<br>One table.<br>Your <em>escape.</em>"
+      },
+      "articleTitle": {
+        "es": "Surf y tradición de Puerto Nuevo",
+        "en": "Surf and Puerto Nuevo traditions"
+      },
+      "image": "rosarito.webp",
+      "color": "#b4663a",
+      "sources": [
+        {
+          "label": "Baja California · Rosarito",
+          "url": "https://www.bajacalifornia.travel/es/destinos/rosarito"
+        },
+        {
+          "label": "Rosarito Beach Hotel",
+          "url": "https://www.rosaritobeachhotel.com/"
+        }
+      ],
+      "pages": [
+        {
+          "title": {
+            "es": "Rosarito",
+            "en": "Rosarito"
+          },
+          "body": {
+            "es": [
+              "Olas del Pacífico y langosta de Puerto Nuevo.",
+              "Para ti si piensas: «Quiero un fin de semana de playa con una mesa que haga memorable el viaje.»"
+            ],
+            "en": [
+              "Pacific surf and Puerto Nuevo lobster.",
+              "For you if you think: “I want a beach weekend with a meal that makes the trip memorable.”"
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        },
+        {
+          "title": {
+            "es": "Tres formas de vivirlo.",
+            "en": "Three ways to experience it."
+          },
+          "body": {
+            "es": [
+              "La costa marca el ritmo. Elige una playa o una experiencia de surf según el nivel de tu grupo y las condiciones del día. Después, deja espacio para la tradición de langosta estilo Puerto Nuevo.",
+              "Los espacios de artesanía de Puerto Nuevo y Popotla añaden otra dimensión a la escapada. Playa, mesa y trabajo artesanal construyen una identidad diferente a la cultura urbana de Tijuana."
+            ],
+            "en": [
+              "The coast sets the pace. Choose a beach or surf experience suited to your group and the day’s conditions. Then leave room for the Puerto Nuevo lobster tradition.",
+              "Craft spaces in Puerto Nuevo and Popotla add another dimension. Beach, food and handmade work create an identity distinct from Tijuana’s urban culture."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Surf en la costa de Rosarito",
+              "Langosta estilo Puerto Nuevo",
+              "Artesanía en Puerto Nuevo y Popotla"
+            ],
+            "en": [
+              "Surf along the Rosarito coast",
+              "Puerto Nuevo-style lobster",
+              "Crafts in Puerto Nuevo and Popotla"
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Dale tu ritmo.",
+            "en": "Make it your own."
+          },
+          "body": {
+            "es": [
+              "Acceso terrestre desde California por un cruce autorizado; continúa por la costa desde Tijuana.",
+              "No todos los rompientes son para principiantes. Hay oleaje, corrientes cambiantes y zonas rocosas; consulta a instructores y atiende las condiciones locales."
+            ],
+            "en": [
+              "Land access from California through an authorized crossing, then south along the coast from Tijuana.",
+              "Not every surf break suits beginners. Swell, changing currents and rocky areas require local guidance and attention to conditions."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Separa visitas locales de salidas regionales.",
+              "Confirma horarios, accesos y condiciones.",
+              "Deja margen para cambios de clima o traslado."
+            ],
+            "en": [
+              "Separate local visits from regional outings.",
+              "Confirm hours, access and conditions.",
+              "Allow room for weather or transport changes."
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Planea y conecta.",
+            "en": "Plan and connect."
+          },
+          "body": {
+            "es": [
+              "Empieza por lo que buscas: Playa · surf · escapadas gastronómicas. Añade este destino a tu solicitud local y combina intereses sin convertirlos en un itinerario cerrado.",
+              "Alojamiento para consultar: Rosarito Beach Hotel. El enlace al sitio del prestador aparece al pie. Confirma precio total, disponibilidad, inclusiones y cancelación para tus fechas."
+            ],
+            "en": [
+              "Start with what you want: Beach · surf · food-led escapes. Add this destination to your local brief and combine interests without turning them into a fixed itinerary.",
+              "Lodging to explore: Rosarito Beach Hotel. The provider link is at the foot of the page. Confirm total price, availability, inclusions and cancellation terms for your dates."
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "tecate",
+      "title": {
+        "en": "Tecate",
+        "es": "Tecate"
+      },
+      "subtitle": {
+        "es": "Baja a otro ritmo: bienestar, pan artesanal y paisajes de roca.",
+        "en": "Baja at a slower pace: wellness, artisan bread and rocky landscapes."
+      },
+      "editorialTitle": {
+        "es": "Menos prisa.<br>Más espacio<br>para <em>ti.</em>",
+        "en": "Less rush.<br>More room<br>for <em>you.</em>"
+      },
+      "articleTitle": {
+        "es": "Bienestar y paisaje de roca",
+        "en": "Wellness and rocky landscapes"
+      },
+      "image": "tecate.webp",
+      "color": "#64764c",
+      "sources": [
+        {
+          "label": "Baja California · Tecate",
+          "url": "https://www.bajacalifornia.travel/es/destinos/tecate"
+        },
+        {
+          "label": "Santuario Diegueño",
+          "url": "https://santuariodiegueno.com/es/"
+        }
+      ],
+      "pages": [
+        {
+          "title": {
+            "es": "Tecate",
+            "en": "Tecate"
+          },
+          "body": {
+            "es": [
+              "Baja a otro ritmo: bienestar, pan artesanal y paisajes de roca.",
+              "Para ti si piensas: «Quiero bajar el ritmo sin perder el contacto con la cultura y el paisaje.»"
+            ],
+            "en": [
+              "Baja at a slower pace: wellness, artisan bread and rocky landscapes.",
+              "For you if you think: “I want to slow down while staying connected to culture and landscape.”"
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        },
+        {
+          "title": {
+            "es": "Tres formas de vivirlo.",
+            "en": "Three ways to experience it."
+          },
+          "body": {
+            "es": [
+              "El centro de Tecate y su tradición de pan artesanal abren un viaje que no necesita correr. La propuesta de bienestar del destino permite imaginar una pausa entre cultura cotidiana y paisaje.",
+              "La Rumorosa y Vallecitos amplían el recorrido hacia paisajes de roca y memoria cultural. Trátalos como salidas regionales y confirma acceso. La herencia Kumiai merece respeto, contexto y una visita responsable."
+            ],
+            "en": [
+              "Tecate’s center and artisan bread tradition open a trip that does not need to rush. The destination’s wellness offering suggests a pause between everyday culture and landscape.",
+              "La Rumorosa and Vallecitos extend the journey into rocky landscapes and cultural memory. Treat them as regional outings and confirm access. Kumiai heritage deserves respect, context and responsible visiting."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Pueblo Mágico y pan artesanal",
+              "Estancias de bienestar",
+              "La Rumorosa y Vallecitos"
+            ],
+            "en": [
+              "Pueblo Mágico and artisan bread",
+              "Wellness stays",
+              "La Rumorosa and Vallecitos"
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Dale tu ritmo.",
+            "en": "Make it your own."
+          },
+          "body": {
+            "es": [
+              "La carretera federal 2 conecta Tecate con Mexicali por La Rumorosa. Revisa el clima antes de viajar.",
+              "No presupongas acceso libre a Cuchumá ni a lugares sagrados. Verifica visitas, permisos y condiciones del camino antes de una salida."
+            ],
+            "en": [
+              "Federal Highway 2 connects Tecate and Mexicali through La Rumorosa. Check the weather before traveling.",
+              "Do not assume unrestricted access to Cuchumá or sacred places. Verify visits, permissions and road conditions before an outing."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Separa visitas locales de salidas regionales.",
+              "Confirma horarios, accesos y condiciones.",
+              "Deja margen para cambios de clima o traslado."
+            ],
+            "en": [
+              "Separate local visits from regional outings.",
+              "Confirm hours, access and conditions.",
+              "Allow room for weather or transport changes."
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Planea y conecta.",
+            "en": "Plan and connect."
+          },
+          "body": {
+            "es": [
+              "Empieza por lo que buscas: Bienestar · parejas · cultura y naturaleza. Añade este destino a tu solicitud local y combina intereses sin convertirlos en un itinerario cerrado.",
+              "Alojamiento para consultar: Santuario Diegueño. El enlace al sitio del prestador aparece al pie. Confirma precio total, disponibilidad, inclusiones y cancelación para tus fechas."
+            ],
+            "en": [
+              "Start with what you want: Wellness · couples · culture and nature. Add this destination to your local brief and combine interests without turning them into a fixed itinerary.",
+              "Lodging to explore: Santuario Diegueño. The provider link is at the foot of the page. Confirm total price, availability, inclusions and cancellation terms for your dates."
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "san-quintin",
+      "title": {
+        "en": "San Quintín",
+        "es": "San Quintín"
+      },
+      "subtitle": {
+        "es": "Del cultivo del ostión a la naturaleza de la bahía.",
+        "en": "From oyster-growing traditions to the bay’s natural landscapes."
+      },
+      "editorialTitle": {
+        "es": "El sabor<br>empieza en<br>el <em>origen.</em>",
+        "en": "Flavor<br>starts at<br>the <em>source.</em>"
+      },
+      "articleTitle": {
+        "es": "Origen del mar y naturaleza de bahía",
+        "en": "Seafood origins and bay nature"
+      },
+      "image": "san-quintin.webp",
+      "color": "#487e74",
+      "sources": [
+        {
+          "label": "Baja California · San Quintín",
+          "url": "https://www.bajacalifornia.travel/es/destinos/san-quintin"
+        },
+        {
+          "label": "Hotel Misión Santa María",
+          "url": "https://misionsantamariahoteles.com/en"
+        }
+      ],
+      "pages": [
+        {
+          "title": {
+            "es": "San Quintín",
+            "en": "San Quintín"
+          },
+          "body": {
+            "es": [
+              "Del cultivo del ostión a la naturaleza de la bahía.",
+              "Para ti si piensas: «Quiero conocer de dónde viene lo que como y explorar sin multitudes.»"
+            ],
+            "en": [
+              "From oyster-growing traditions to the bay’s natural landscapes.",
+              "For you if you think: “I want to know where my food comes from and explore at a quieter pace.”"
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        },
+        {
+          "title": {
+            "es": "Tres formas de vivirlo.",
+            "en": "Three ways to experience it."
+          },
+          "body": {
+            "es": [
+              "La producción de ostión conecta a San Quintín con una forma concreta de entender la cocina marina: conocer el origen. Pregunta si los productores reciben visitantes antes de imaginar una visita a un cultivo.",
+              "La bahía, los humedales y la tradición pesquera invitan a observar con atención. Esta guía se concentra en la zona de la bahía; el municipio es mucho más extenso y requiere otros recorridos."
+            ],
+            "en": [
+              "Oyster production connects San Quintín with a tangible way to understand seafood: knowing its origin. Ask whether producers receive visitors before planning a farm visit.",
+              "The bay, wetlands and fishing traditions reward attentive exploration. This guide focuses on the bay area; the municipality is much larger and needs separate journeys."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Producción de ostión",
+              "Paisajes de bahía y humedales",
+              "Tradición pesquera local"
+            ],
+            "en": [
+              "Oyster production",
+              "Bay landscapes and wetlands",
+              "Local fishing traditions"
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Dale tu ritmo.",
+            "en": "Make it your own."
+          },
+          "body": {
+            "es": [
+              "Organiza un itinerario terrestre por Baja California. Verifica distancias, combustible y condiciones del camino.",
+              "No trates Cataviña, Bahía de los Ángeles o San Pedro Mártir como paradas cercanas a la bahía. Confirma distancias y acceso a los cultivos."
+            ],
+            "en": [
+              "Plan a road itinerary through Baja California. Check distances, fuel and road conditions.",
+              "Do not treat Cataviña, Bahía de los Ángeles or San Pedro Mártir as nearby bay stops. Verify distances and access to production sites."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Separa visitas locales de salidas regionales.",
+              "Confirma horarios, accesos y condiciones.",
+              "Deja margen para cambios de clima o traslado."
+            ],
+            "en": [
+              "Separate local visits from regional outings.",
+              "Confirm hours, access and conditions.",
+              "Allow room for weather or transport changes."
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Planea y conecta.",
+            "en": "Plan and connect."
+          },
+          "body": {
+            "es": [
+              "Empieza por lo que buscas: Cocina de origen · naturaleza · road trips. Añade este destino a tu solicitud local y combina intereses sin convertirlos en un itinerario cerrado.",
+              "Alojamiento para consultar: Hotel Misión Santa María. El enlace al sitio del prestador aparece al pie. Confirma precio total, disponibilidad, inclusiones y cancelación para tus fechas."
+            ],
+            "en": [
+              "Start with what you want: Food origins · nature · road trips. Add this destination to your local brief and combine interests without turning them into a fixed itinerary.",
+              "Lodging to explore: Hotel Misión Santa María. The provider link is at the foot of the page. Confirm total price, availability, inclusions and cancellation terms for your dates."
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "san-felipe",
+      "title": {
+        "en": "San Felipe",
+        "es": "San Felipe"
+      },
+      "subtitle": {
+        "es": "Donde las mareas del Golfo se encuentran con los gigantes del desierto.",
+        "en": "Where Gulf tides meet the giants of the desert."
+      },
+      "editorialTitle": {
+        "es": "El desierto<br>también mira<br>al <em>mar.</em>",
+        "en": "The desert<br>also looks<br>to the <em>sea.</em>"
+      },
+      "articleTitle": {
+        "es": "Mareas del Golfo y cardones",
+        "en": "Gulf tides and cardón cacti"
+      },
+      "image": "san-felipe.webp",
+      "color": "#ac7047",
+      "sources": [
+        {
+          "label": "Baja California · San Felipe",
+          "url": "https://www.bajacalifornia.travel/es/destinos/san-felipe"
+        },
+        {
+          "label": "Las Palmas Hotel",
+          "url": "https://laspalmassanfelipe.com/"
+        }
+      ],
+      "pages": [
+        {
+          "title": {
+            "es": "San Felipe",
+            "en": "San Felipe"
+          },
+          "body": {
+            "es": [
+              "Donde las mareas del Golfo se encuentran con los gigantes del desierto.",
+              "Para ti si piensas: «Quiero una costa diferente, paisajes para fotografiar y tiempo sin prisa.»"
+            ],
+            "en": [
+              "Where Gulf tides meet the giants of the desert.",
+              "For you if you think: “I want a different coastline, photogenic landscapes and unhurried time.”"
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        },
+        {
+          "title": {
+            "es": "Tres formas de vivirlo.",
+            "en": "Three ways to experience it."
+          },
+          "body": {
+            "es": [
+              "San Felipe ofrece la otra costa de Baja California: el golfo, con una línea de playa que cambia con las mareas. Deja que las condiciones del día orienten el paseo y las actividades.",
+              "El Valle de los Gigantes conecta la costa con el paisaje de cardones. Combina la observación del desierto con cocina marina local, sin confundir un paisaje atractivo con acceso o actividades garantizados."
+            ],
+            "en": [
+              "San Felipe offers Baja California’s other coast: the gulf, with a shoreline shaped by the tides. Let daily conditions guide walks and activities.",
+              "Valle de los Gigantes connects the coast with a landscape of cardón cacti. Pair desert scenery with local seafood without assuming guaranteed access or activities."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Costa y mareas del golfo de California",
+              "Valle de los Gigantes",
+              "Cocina marina local"
+            ],
+            "en": [
+              "Gulf of California coast and tides",
+              "Valle de los Gigantes",
+              "Local seafood cooking"
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Dale tu ritmo.",
+            "en": "Make it your own."
+          },
+          "body": {
+            "es": [
+              "La carretera federal 5 conecta Mexicali con San Felipe. Planea agua, combustible y descansos.",
+              "Consulta mareas, clima y condiciones del mar. La descripción de aguas cálidas no equivale a seguridad para nadar ni a condiciones permanentes."
+            ],
+            "en": [
+              "Federal Highway 5 connects Mexicali and San Felipe. Plan water, fuel and rest stops.",
+              "Check tides, weather and sea conditions. Warm-water descriptions do not guarantee safe swimming or year-round conditions."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Separa visitas locales de salidas regionales.",
+              "Confirma horarios, accesos y condiciones.",
+              "Deja margen para cambios de clima o traslado."
+            ],
+            "en": [
+              "Separate local visits from regional outings.",
+              "Confirm hours, access and conditions.",
+              "Allow room for weather or transport changes."
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Planea y conecta.",
+            "en": "Plan and connect."
+          },
+          "body": {
+            "es": [
+              "Empieza por lo que buscas: Costa tranquila · desierto · fotografía. Añade este destino a tu solicitud local y combina intereses sin convertirlos en un itinerario cerrado.",
+              "Alojamiento para consultar: Las Palmas Hotel. El enlace al sitio del prestador aparece al pie. Confirma precio total, disponibilidad, inclusiones y cancelación para tus fechas."
+            ],
+            "en": [
+              "Start with what you want: Slower coast · desert · photography. Add this destination to your local brief and combine interests without turning them into a fixed itinerary.",
+              "Lodging to explore: Las Palmas Hotel. The provider link is at the foot of the page. Confirm total price, availability, inclusions and cancellation terms for your dates."
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "valle-de-guadalupe",
+      "title": {
+        "en": "Valle de Guadalupe",
+        "es": "Valle de Guadalupe"
+      },
+      "subtitle": {
+        "es": "Viñedos, cocina de territorio y tiempo para compartir.",
+        "en": "Vineyards, regional cuisine and time together."
+      },
+      "editorialTitle": {
+        "es": "El paisaje<br>se disfruta<br>a <em>sorbos.</em>",
+        "en": "A landscape<br>to savor,<br>one <em>sip.</em>"
+      },
+      "articleTitle": {
+        "es": "Vino y cocina de territorio",
+        "en": "Wine and regional cuisine"
+      },
+      "image": "valle.webp",
+      "color": "#754657",
+      "sources": [
+        {
+          "label": "Baja California · Valle de Guadalupe",
+          "url": "https://www.bajacalifornia.travel/es/rutas/el-valle-de-guadalupe"
+        },
+        {
+          "label": "Bruma Wine Resort",
+          "url": "https://www.brumawineresort.com/"
+        }
+      ],
+      "pages": [
+        {
+          "title": {
+            "es": "Valle de Guadalupe",
+            "en": "Valle de Guadalupe"
+          },
+          "body": {
+            "es": [
+              "Viñedos, cocina de territorio y tiempo para compartir.",
+              "Para ti si piensas: «Quiero celebrar, comer bien y compartir una experiencia sin llenar cada hora.»"
+            ],
+            "en": [
+              "Vineyards, regional cuisine and time together.",
+              "For you if you think: “I want to celebrate, eat well and share an experience without filling every hour.”"
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        },
+        {
+          "title": {
+            "es": "Tres formas de vivirlo.",
+            "en": "Three ways to experience it."
+          },
+          "body": {
+            "es": [
+              "El vino, la cocina Baja Med y las estancias en el valle forman un mismo relato de territorio. Elige pocas visitas y deja espacio para cada una: una degustación y una buena mesa pueden marcar el día.",
+              "Valle de Guadalupe es una región vinícola de Ensenada, con identidad propia dentro de esta propuesta. No es un municipio adicional. Para un acercamiento cultural, consulta la disponibilidad del centro comunitario Siñaw Kuatay."
+            ],
+            "en": [
+              "Wine, Baja Med cooking and valley stays tell one regional story. Choose fewer visits and give each room: a tasting and a good table can shape the day.",
+              "Valle de Guadalupe is an Ensenada wine region with its own identity in this concept. It is not an additional municipality. For a cultural visit, check availability at the community-run Siñaw Kuatay center."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Degustaciones en bodegas",
+              "Cocina Baja Med",
+              "Estancias entre viñedos"
+            ],
+            "en": [
+              "Winery tastings",
+              "Baja Med dining",
+              "Vineyard-area stays"
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Dale tu ritmo.",
+            "en": "Make it your own."
+          },
+          "body": {
+            "es": [
+              "Combina el valle con Ensenada o Tecate. Planea traslados y conductor designado para degustaciones.",
+              "Reserva con anticipación y acuerda traslados o conductor designado. Confirma horarios, requisitos y condiciones directamente con cada prestador."
+            ],
+            "en": [
+              "Combine the valley with Ensenada or Tecate. Arrange transfers and a designated driver for tastings.",
+              "Book ahead and arrange transfers or a designated driver. Confirm hours, requirements and terms directly with each provider."
+            ]
+          },
+          "checklist": {
+            "es": [
+              "Separa visitas locales de salidas regionales.",
+              "Confirma horarios, accesos y condiciones.",
+              "Deja margen para cambios de clima o traslado."
+            ],
+            "en": [
+              "Separate local visits from regional outings.",
+              "Confirm hours, access and conditions.",
+              "Allow room for weather or transport changes."
+            ]
+          }
+        },
+        {
+          "title": {
+            "es": "Planea y conecta.",
+            "en": "Plan and connect."
+          },
+          "body": {
+            "es": [
+              "Empieza por lo que buscas: Vino · cocina Baja Med · parejas y grupos. Añade este destino a tu solicitud local y combina intereses sin convertirlos en un itinerario cerrado.",
+              "Alojamiento para consultar: Bruma Wine Resort. El enlace al sitio del prestador aparece al pie. Confirma precio total, disponibilidad, inclusiones y cancelación para tus fechas."
+            ],
+            "en": [
+              "Start with what you want: Wine · Baja Med food · couples and groups. Add this destination to your local brief and combine interests without turning them into a fixed itinerary.",
+              "Lodging to explore: Bruma Wine Resort. The provider link is at the foot of the page. Confirm total price, availability, inclusions and cancellation terms for your dates."
+            ]
+          },
+          "checklist": {
+            "es": [],
+            "en": []
+          }
+        }
+      ]
+    }
+  ],
+  "experienceReview": {
+    "checkedOn": "2026-11-10",
+    "scope": {
+      "es": "Se verificó que las fuentes públicas identifican los lugares y describen estas experiencias. No es verificación de apertura, disponibilidad, seguridad, calidad, habilitación profesional ni accesibilidad para una fecha de viaje.",
+      "en": "Public sources were checked for place identity and described experiences. This does not verify opening, availability, safety, quality, professional licensing or accessibility for a travel date."
+    },
+    "globalCheck": {
+      "es": "Antes de salir, confirma operación, acceso, reservación, requisitos de participación y necesidades de movilidad directamente con el recinto o autoridad correspondiente. Consulta el pronóstico y los avisos locales para actividades al aire libre.",
+      "en": "Before setting out, confirm operation, access, reservations, participation requirements and mobility needs directly with the venue or relevant authority. Check forecasts and local advisories for outdoor activities."
+    },
+    "coverage": {
+      "tijuana": {
+        "es": "Este pase no verifica taquerías, Pasaje Rodríguez, vida nocturna ni condiciones de cruces fronterizos.",
+        "en": "This pass does not verify taquerías, Pasaje Rodríguez, nightlife or border-crossing conditions."
+      },
+      "ensenada": {
+        "es": "No se verifican avistamiento de ballenas, excursiones marítimas, surf, operadores ni traslados desde cruceros. Valle de Guadalupe tiene una ficha propia.",
+        "en": "Whale watching, boat excursions, surfing, operators and cruise transfers are not verified. Valle de Guadalupe has its own entry."
+      },
+      "mexicali": {
+        "es": "No se verifican excursiones a Laguna Salada, Río Hardy o dunas. Para planes al aire libre, consulta pronóstico y avisos locales.",
+        "en": "Excursions to Laguna Salada, Río Hardy or the dunes are not verified. For outdoor plans, check forecasts and local advisories."
+      },
+      "rosarito": {
+        "es": "No se verifican buceo en el arrecife artificial, rappel, actividades motorizadas ni acceso a playas privadas.",
+        "en": "Artificial-reef diving, rappelling, motorized activities and access to private beaches are not verified."
+      },
+      "tecate": {
+        "es": "No se verifican visitas a la cervecería, Cuchumá, spas o vinícolas. La Rumorosa y El Vallecito no son paradas peatonales del centro de Tecate.",
+        "en": "Brewery visits, Cuchumá, spas and wineries are not verified. La Rumorosa and El Vallecito are not walking stops in central Tecate."
+      },
+      "san-quintin": {
+        "es": "Se omiten Bahía de los Ángeles, Cataviña y San Pedro Mártir para no confundir distancias dentro del municipio. No se verifican visitas a granjas de ostión ni excursiones a La Lobera.",
+        "en": "Bahía de los Ángeles, Cataviña and San Pedro Mártir are omitted to avoid conflating distances within the municipality. Oyster-farm visits and La Lobera excursions are not verified."
+      },
+      "san-felipe": {
+        "es": "No se verifican Puertecitos, pesca, paseos marítimos o actividades con fauna. No se ofrecen avistamientos de vaquita marina.",
+        "en": "Puertecitos, fishing, boat trips and wildlife activities are not verified. No vaquita sightings are offered."
+      },
+      "valle-de-guadalupe": {
+        "es": "No se verifican restaurantes, hospedajes, traslados, vendimias ni disponibilidad. La experiencia comunitaria requiere confirmación directa antes de incorporarse a un itinerario cerrado.",
+        "en": "Restaurants, lodging, transfers, harvest events and availability are not verified. The community experience needs direct confirmation before inclusion in a fixed itinerary."
+      }
+    }
+  },
+  "experiences": [
+    {
+      "id": "tijuana-cecut",
+      "destinationId": "tijuana",
+      "title": {
+        "es": "CECUT: Museo de las Californias y El Cubo",
+        "en": "CECUT: Museo de las Californias and El Cubo"
+      },
+      "description": {
+        "es": "El Centro Cultural Tijuana reúne el Museo de las Californias, las salas de El Cubo y el Domo IMAX en un mismo complejo cultural.",
+        "en": "Centro Cultural Tijuana brings together Museo de las Californias, El Cubo exhibition galleries and the IMAX dome in one cultural complex."
+      },
+      "area": {
+        "es": "Zona Río, Tijuana",
+        "en": "Zona Río, Tijuana"
+      },
+      "interests": [
+        "Culture & traditions",
+        "Learning & workshops"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Elige las salas que te interesan y confirma la programación y las condiciones de entrada de cada espacio.",
+            "en": "Choose your preferred spaces and check each venue’s program and entry arrangements."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verificaron exposiciones vigentes, funciones, accesibilidad ni recorridos en inglés.",
+        "en": "Current exhibitions, screenings, accessibility and English-language tours were not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Centro Cultural Tijuana (CECUT)",
+          "url": "https://sic.cultura.gob.mx/ficha.php?estado_id=2&municipio_id=4&table=centro_cultural&table_id=360",
+          "publisher": "Secretaría de Cultura, Sistema de Información Cultural"
+        }
+      ]
+    },
+    {
+      "id": "tijuana-trompo",
+      "destinationId": "tijuana",
+      "title": {
+        "es": "El Trompo Museo Interactivo",
+        "en": "El Trompo Interactive Museum"
+      },
+      "description": {
+        "es": "Un museo de ciencia y tecnología que propone aprender mediante la experimentación, pensado para niñas, niños, familias y visitantes.",
+        "en": "A science and technology museum built around learning through experimentation, with children, families and visitors in mind."
+      },
+      "area": {
+        "es": "Tijuana",
+        "en": "Tijuana"
+      },
+      "interests": [
+        "Learning & workshops"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Confirma qué salas y actividades estarán operando y las recomendaciones de edad antes de organizar la visita.",
+            "en": "Check which galleries and activities will be operating and ask about age guidance before planning your visit."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verificó el funcionamiento de cada interactivo ni apoyos de accesibilidad.",
+        "en": "Individual exhibit operation and accessibility support were not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "¿Qué es El Trompo?",
+          "url": "https://www.eltrompo.org/informacion",
+          "publisher": "El Trompo Museo Interactivo Tijuana"
+        }
+      ]
+    },
+    {
+      "id": "ensenada-bufadora",
+      "destinationId": "ensenada",
+      "title": {
+        "es": "La Bufadora",
+        "en": "La Bufadora"
+      },
+      "description": {
+        "es": "Una formación costera reconocida por la expulsión de agua del mar; la oficina estatal de turismo también describe actividades de senderismo y kayak en la zona.",
+        "en": "A coastal formation known for its seawater spray; the state tourism office also describes hiking and kayaking activities in the area."
+      },
+      "area": {
+        "es": "Al sur de Ensenada",
+        "en": "South of Ensenada"
+      },
+      "interests": [
+        "Nature & landscapes"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Confirma el acceso y las condiciones del mar. Para kayak, verifica guía, equipo y restricciones antes de salir.",
+            "en": "Confirm access and sea conditions. For kayaking, check the guide, equipment and restrictions before setting out."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verificaron acceso del día, oleaje, operador, salida de kayak ni intensidad del fenómeno natural.",
+        "en": "Same-day access, sea state, an operator, kayak departure and the intensity of the natural display were not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Visita La Bufadora",
+          "url": "https://www.bajacalifornia.travel/es/actividades/visita-la-bufadora",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        }
+      ]
+    },
+    {
+      "id": "ensenada-riviera",
+      "destinationId": "ensenada",
+      "title": {
+        "es": "Riviera y Museo de Historia de Ensenada",
+        "en": "Riviera and Museo de Historia de Ensenada"
+      },
+      "description": {
+        "es": "El museo ocupa parte del complejo Riviera, construido en 1930, y aborda historia indígena, arte rupestre, prehistoria, exploración, misiones y minería.",
+        "en": "The museum occupies part of the Riviera complex, built in 1930, with subjects spanning Indigenous history, rock art, prehistory, exploration, missions and mining."
+      },
+      "area": {
+        "es": "Centro de Ensenada",
+        "en": "Central Ensenada"
+      },
+      "interests": [
+        "Culture & traditions",
+        "Learning & workshops",
+        "Cities & architecture"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Confirma por separado el acceso al museo, las áreas del Riviera y la posibilidad de una visita guiada.",
+            "en": "Check access to the museum and Riviera spaces separately, along with the possibility of a guided visit."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "El registro cultural se actualizó en 2022; no confirma las salas o servicios disponibles hoy.",
+        "en": "The cultural registry was updated in 2022 and does not confirm today’s available galleries or services."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Museo de Historia de Ensenada",
+          "url": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=600",
+          "publisher": "Secretaría de Cultura, Sistema de Información Cultural"
+        }
+      ]
+    },
+    {
+      "id": "mexicali-chinesca",
+      "destinationId": "mexicali",
+      "title": {
+        "es": "La Chinesca y el Centro Histórico",
+        "en": "La Chinesca and the historic center"
+      },
+      "description": {
+        "es": "La Chinesca permite acercarse a la presencia china en la historia de Mexicali. La ruta oficial del centro incluye el Callejón Chinesca y otros edificios históricos.",
+        "en": "La Chinesca offers an introduction to Chinese heritage in Mexicali. The official historic-center route includes Callejón Chinesca and other historic buildings."
+      },
+      "area": {
+        "es": "Centro Histórico de Mexicali",
+        "en": "Historic center of Mexicali"
+      },
+      "interests": [
+        "Culture & traditions",
+        "Learning & workshops"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Distingue el paseo por el barrio de los recorridos interiores. Confirma operador, punto de encuentro y acceso si quieres visitar túneles.",
+            "en": "Distinguish a neighborhood walk from indoor tours. Confirm the operator, meeting point and access if you want to visit tunnels."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verificaron visitas subterráneas, salidas de autobús, guía ni accesibilidad.",
+        "en": "Underground visits, bus departures, guides and accessibility were not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Visita Mexicali",
+          "url": "https://www.bajacalifornia.travel/es/destinos/mexicali",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        },
+        {
+          "label": "Ruta Centro Histórico Mexicali",
+          "url": "https://www.bajacalifornia.gob.mx/rutacentrohistoricomexicali",
+          "publisher": "Gobierno del Estado de Baja California"
+        }
+      ]
+    },
+    {
+      "id": "mexicali-sol-del-nino",
+      "destinationId": "mexicali",
+      "title": {
+        "es": "Museo Sol del Niño",
+        "en": "Museo Sol del Niño"
+      },
+      "description": {
+        "es": "El museo propone experiencias interactivas sobre ciencia, tecnología y medio ambiente en el edificio histórico de La Jabonera del Pacífico.",
+        "en": "The museum presents interactive science, technology and environmental learning in the historic La Jabonera del Pacífico building."
+      },
+      "area": {
+        "es": "Mexicali",
+        "en": "Mexicali"
+      },
+      "interests": [
+        "Learning & workshops"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Revisa la programación y confirma las salas e interactivos disponibles para la fecha de tu visita.",
+            "en": "Review the program and confirm the galleries and interactive exhibits available on your visit date."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verificó el estado de los interactivos ni las funciones de cine.",
+        "en": "Interactive exhibit condition and film screenings were not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Museo Sol del Niño",
+          "url": "https://sic.cultura.gob.mx/ficha.php?disciplina=&table=museo&table_id=886",
+          "publisher": "Secretaría de Cultura, Sistema de Información Cultural"
+        }
+      ]
+    },
+    {
+      "id": "mexicali-uabc",
+      "destinationId": "mexicali",
+      "title": {
+        "es": "Instituto de Investigaciones Culturales Museo-UABC",
+        "en": "Instituto de Investigaciones Culturales Museo-UABC"
+      },
+      "description": {
+        "es": "Una visita para explorar el desierto, la migración, la frontera y las culturas regionales a través de las colecciones y salas del museo universitario.",
+        "en": "Explore the desert, migration, the border and regional cultures through the collections and galleries of this university museum."
+      },
+      "area": {
+        "es": "Colonia Nueva, Mexicali",
+        "en": "Colonia Nueva, Mexicali"
+      },
+      "interests": [
+        "Culture & traditions",
+        "Learning & workshops",
+        "Cities & architecture"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Confirma qué exposiciones se pueden visitar y si hay recorridos guiados para tu grupo.",
+            "en": "Confirm which exhibitions can be visited and whether guided visits are offered for your group."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verificaron exposiciones temporales ni disponibilidad de guías.",
+        "en": "Temporary exhibitions and guide availability were not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Instituto de Investigaciones Culturales Museo-UABC",
+          "url": "https://sic.gob.mx/ficha.php?disciplina=&table=museo&table_id=328",
+          "publisher": "Secretaría de Cultura, Sistema de Información Cultural"
+        }
+      ]
+    },
+    {
+      "id": "rosarito-puerto-nuevo",
+      "destinationId": "rosarito",
+      "title": {
+        "es": "Puerto Nuevo: tradición de langosta",
+        "en": "Puerto Nuevo: lobster tradition"
+      },
+      "description": {
+        "es": "Puerto Nuevo es conocido por su langosta, tradicionalmente acompañada de frijoles, arroz y tortillas de harina. Es una parada gastronómica, no un restaurante único.",
+        "en": "Puerto Nuevo is known for lobster traditionally served with beans, rice and flour tortillas. It is a dining destination, rather than a single restaurant."
+      },
+      "area": {
+        "es": "Puerto Nuevo, municipio de Playas de Rosarito",
+        "en": "Puerto Nuevo, Playas de Rosarito municipality"
+      },
+      "interests": [
+        "Food & flavours",
+        "Culture & traditions"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Elige un restaurante y confirma reservación, ingredientes y alternativas alimentarias directamente con el establecimiento.",
+            "en": "Choose a restaurant and check reservations, ingredients and dietary alternatives directly with the venue."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se recomienda ni verifica un restaurante específico, menú o disponibilidad de producto.",
+        "en": "No specific restaurant, menu or product availability is recommended or verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Visita Rosarito",
+          "url": "https://www.bajacalifornia.travel/es/destinos/rosarito",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        },
+        {
+          "label": "Ayuntamiento de Playas de Rosarito Fortalece Atención al Visitante y Promoción Turística",
+          "url": "https://www.rosarito.gob.mx/10mo/nota/COMROS-2025-365",
+          "publisher": "Ayuntamiento de Playas de Rosarito"
+        }
+      ]
+    },
+    {
+      "id": "rosarito-popotla",
+      "destinationId": "rosarito",
+      "title": {
+        "es": "Bulevar Artesanal Popotla",
+        "en": "Bulevar Artesanal Popotla"
+      },
+      "description": {
+        "es": "El corredor artesanal de Popotla reúne expresiones de arte y oficios locales; la promoción oficial destaca piezas de pintura, hierro y barro en la zona.",
+        "en": "Popotla’s craft corridor brings together local art and crafts; official tourism material highlights painting, ironwork and pottery in the area."
+      },
+      "area": {
+        "es": "Corredor Popotla, Playas de Rosarito",
+        "en": "Popotla corridor, Playas de Rosarito"
+      },
+      "interests": [
+        "Folklore & crafts",
+        "Culture & traditions"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Confirma los talleres o galerías que quieres visitar y pide permiso antes de fotografiar personas u obras.",
+            "en": "Check the workshops or galleries you want to visit and ask permission before photographing people or artworks."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verificaron talleres concretos, demostraciones, horarios ni inventario.",
+        "en": "Specific workshops, demonstrations, opening schedules and inventory were not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Ayuntamiento de Playas de Rosarito Fortalece Atención al Visitante y Promoción Turística",
+          "url": "https://www.rosarito.gob.mx/10mo/nota/COMROS-2025-365",
+          "publisher": "Ayuntamiento de Playas de Rosarito"
+        },
+        {
+          "label": "Visita Rosarito",
+          "url": "https://www.bajacalifornia.travel/es/destinos/rosarito",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        }
+      ]
+    },
+    {
+      "id": "rosarito-surf",
+      "destinationId": "rosarito",
+      "title": {
+        "es": "Surf en la zona del Muelle de Rosarito",
+        "en": "Surf around Muelle de Rosarito"
+      },
+      "description": {
+        "es": "La oficina estatal de turismo incluye el entorno del Muelle de Rosarito entre sus puntos para practicar surf y menciona clases con instructores locales.",
+        "en": "The state tourism office lists the area around Muelle de Rosarito as a surfing spot and mentions lessons with local instructors."
+      },
+      "area": {
+        "es": "Frente de playa de Rosarito",
+        "en": "Rosarito beachfront"
+      },
+      "interests": [
+        "Water activities",
+        "Adventure"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Antes de entrar al agua, consulta banderas, oleaje y corrientes. Pide a un instructor evaluar el punto y tu nivel; una ficha turística no garantiza condiciones aptas.",
+            "en": "Before entering the water, check flags, waves and currents. Ask an instructor to assess the spot and your level; a tourism listing does not guarantee suitable conditions."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verifican condiciones del mar, clase, instructor, equipo ni acceso al muelle.",
+        "en": "Sea conditions, lessons, instructors, equipment and access onto the pier are not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Visita Rosarito",
+          "url": "https://www.bajacalifornia.travel/es/destinos/rosarito",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        }
+      ]
+    },
+    {
+      "id": "tecate-hidalgo",
+      "destinationId": "tecate",
+      "title": {
+        "es": "Parque Miguel Hidalgo",
+        "en": "Parque Miguel Hidalgo"
+      },
+      "description": {
+        "es": "El Parque Miguel Hidalgo es un espacio central de convivencia de Tecate. Puede ser el punto de partida para conocer el centro y su tradición panadera.",
+        "en": "Parque Miguel Hidalgo is a central gathering place in Tecate. It can anchor a walk through the town center and an introduction to its baking tradition."
+      },
+      "area": {
+        "es": "Centro de Tecate",
+        "en": "Central Tecate"
+      },
+      "interests": [
+        "Pueblos Mágicos",
+        "Cities & architecture"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Consulta la agenda municipal si buscas un evento y confirma por separado la panadería que quieras visitar.",
+            "en": "Check the municipal calendar if you want an event and separately confirm the bakery you plan to visit."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verifican eventos futuros, panaderías concretas ni servicios del parque.",
+        "en": "Future events, specific bakeries and park services are not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Tecate, Baja California",
+          "url": "https://www.sectur.gob.mx/gobmx/pueblos-magicos/tecate-baja-california/",
+          "publisher": "Secretaría de Turismo"
+        },
+        {
+          "label": "Día del Pueblo en el Parque Miguel Hidalgo",
+          "url": "https://tecate.gob.mx/noticias/373",
+          "publisher": "Gobierno de Tecate"
+        }
+      ]
+    },
+    {
+      "id": "tecate-vallecito",
+      "destinationId": "tecate",
+      "title": {
+        "es": "Zona Arqueológica El Vallecito",
+        "en": "El Vallecito archaeological site"
+      },
+      "description": {
+        "es": "El Vallecito conserva pinturas rupestres en abrigos rocosos de la Sierra de Juárez, entre ellos El Diablito y El Tiburón.",
+        "en": "El Vallecito preserves rock paintings in Sierra de Juárez rock shelters, including El Diablito and El Tiburón."
+      },
+      "area": {
+        "es": "Ejido Jacumé, municipio de Tecate; fuera del centro urbano",
+        "en": "Ejido Jacumé, Tecate municipality; outside the town center"
+      },
+      "interests": [
+        "Archaeology",
+        "Culture & traditions"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "INAH indica acceso por terracería y prohíbe mascotas, alimentos, fumar y fotografía con flash. Confirma las condiciones de visita antes de desplazarte.",
+            "en": "INAH lists a dirt-road approach and prohibits pets, food, smoking and flash photography. Confirm visiting conditions before traveling."
+          },
+          "basis": "published_visitor_rules",
+          "source_ids": [
+            "vallecito-visit"
+          ]
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se confirma estado de la terracería, acceso del día, recorrido accesible o visita de solsticio.",
+        "en": "Dirt-road condition, same-day access, an accessible route and solstice visits are not confirmed."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "El Vallecito",
+          "url": "https://lugares.inah.gob.mx/es/node/4406",
+          "publisher": "Instituto Nacional de Antropología e Historia"
+        },
+        {
+          "label": "El Vallecito: información para la visita",
+          "url": "https://lugares.inah.gob.mx/es/node/5444",
+          "publisher": "Instituto Nacional de Antropología e Historia"
+        }
+      ]
+    },
+    {
+      "id": "tecate-rumorosa",
+      "destinationId": "tecate",
+      "title": {
+        "es": "Sendero Interpretativo La Rumorosa",
+        "en": "La Rumorosa Interpretive Trail"
+      },
+      "description": {
+        "es": "Un sendero interpretativo en el norte de la Sierra de Juárez, con paisajes rocosos y miradores. La fuente oficial describe variantes para caminar o recorrer en bicicleta.",
+        "en": "An interpretive trail in the northern Sierra de Juárez, with rocky landscapes and viewpoints. The official source describes walking and cycling variants."
+      },
+      "area": {
+        "es": "La Rumorosa, municipio de Tecate; fuera del centro urbano",
+        "en": "La Rumorosa, Tecate municipality; outside the town center"
+      },
+      "interests": [
+        "Nature & landscapes",
+        "Adventure"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Confirma la variante, dificultad, clima, acceso y necesidad de guía. Lleva agua y calzado adecuado; no asumas que todas las variantes sirven para cualquier persona.",
+            "en": "Check the route variant, difficulty, weather, access and need for a guide. Bring water and suitable footwear; do not assume every variant suits every visitor."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verificó el estado del sendero, cobertura móvil, guía ni accesibilidad física.",
+        "en": "Trail condition, mobile coverage, guides and physical accessibility were not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Sendero Interpretativo La Rumorosa",
+          "url": "https://www.bajacalifornia.travel/es/actividades/sendero-interpretativo-la-rumorosa",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        }
+      ]
+    },
+    {
+      "id": "san-quintin-humedales",
+      "destinationId": "san-quintin",
+      "title": {
+        "es": "Humedales de Bahía San Quintín",
+        "en": "Bahía San Quintín wetlands"
+      },
+      "description": {
+        "es": "Los humedales ofrecen un paisaje para observar aves residentes y migratorias. La fuente oficial también describe recorridos en kayak en este entorno.",
+        "en": "The wetlands offer a setting for observing resident and migratory birds. The official source also describes kayaking in this environment."
+      },
+      "area": {
+        "es": "Bahía San Quintín",
+        "en": "Bahía San Quintín"
+      },
+      "interests": [
+        "Wildlife",
+        "Nature & landscapes",
+        "Water activities"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Consulta puntos autorizados de acceso, mareas, viento y reglas de conservación. Para kayak, confirma guía y equipo; observa fauna a distancia.",
+            "en": "Check authorized access points, tides, wind and conservation rules. For kayaking, confirm a guide and equipment; observe wildlife from a distance."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verifican avistamientos, rutas navegables del día, operador ni permisos específicos.",
+        "en": "Sightings, same-day navigable routes, operators and specific permits are not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Los Humedales de San Quintín",
+          "url": "https://www.bajacalifornia.travel/es/actividades/los-humedales-de-san-quintin",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        }
+      ]
+    },
+    {
+      "id": "san-quintin-monte-ceniza",
+      "destinationId": "san-quintin",
+      "title": {
+        "es": "Monte Ceniza y paisaje volcánico",
+        "en": "Monte Ceniza and the volcanic landscape"
+      },
+      "description": {
+        "es": "Monte Ceniza es una de las formaciones basálticas destacadas en la guía estatal, dentro del paisaje de volcanes extintos junto a la costa del Pacífico.",
+        "en": "Monte Ceniza is one of the basalt formations highlighted by the state guide, within the extinct-volcano landscape beside the Pacific coast."
+      },
+      "area": {
+        "es": "Entorno de la bahía de San Quintín",
+        "en": "San Quintín bay area"
+      },
+      "interests": [
+        "Nature & landscapes",
+        "Adventure"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Confirma el acceso permitido, la ruta y las condiciones del terreno con una fuente local. Evita salir de caminos autorizados y prepara agua y protección solar.",
+            "en": "Confirm permitted access, your route and ground conditions with a local source. Stay on authorized paths and prepare water and sun protection."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verifican paso por predios, sendero señalizado, guía, accesibilidad ni mirador abierto.",
+        "en": "Property access, a marked trail, guides, accessibility and an open viewpoint are not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Visita San Quintín",
+          "url": "https://www.bajacalifornia.travel/es/destinos/san-quintin",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        }
+      ]
+    },
+    {
+      "id": "san-felipe-malecon",
+      "destinationId": "san-felipe",
+      "title": {
+        "es": "Malecón de San Felipe",
+        "en": "San Felipe Malecón"
+      },
+      "description": {
+        "es": "El malecón es un punto para pasear frente al Golfo de California y contemplar el amanecer. La guía estatal también menciona galerías y artesanías locales.",
+        "en": "The malecón is a place to stroll beside the Gulf of California and watch the sunrise. The state guide also mentions local galleries and crafts."
+      },
+      "area": {
+        "es": "Frente marítimo de San Felipe",
+        "en": "San Felipe waterfront"
+      },
+      "interests": [
+        "Beaches",
+        "Cities & architecture"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Consulta mareas y avisos locales si bajas a la playa. El paseo por el malecón no equivale a una recomendación de baño.",
+            "en": "Check tides and local advisories if you go onto the beach. A waterfront walk is not a swimming recommendation."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verifican condiciones de baño, servicios de playa ni galerías específicas.",
+        "en": "Swimming conditions, beach services and specific galleries are not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Visita San Felipe",
+          "url": "https://www.bajacalifornia.travel/es/destinos/san-felipe",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        }
+      ]
+    },
+    {
+      "id": "san-felipe-gigantes",
+      "destinationId": "san-felipe",
+      "title": {
+        "es": "Valle de los Gigantes",
+        "en": "Valle de los Gigantes"
+      },
+      "description": {
+        "es": "Un paisaje de grandes cardones y otras cactáceas en Rancho Punta Estrella. La descripción turística contempla recorridos a pie o en automóvil.",
+        "en": "A landscape of large cardón cacti and other cactus species at Rancho Punta Estrella. The tourism description includes walking and driving visits."
+      },
+      "area": {
+        "es": "Rancho Punta Estrella, al sur de San Felipe",
+        "en": "Rancho Punta Estrella, south of San Felipe"
+      },
+      "interests": [
+        "Nature & landscapes"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Confirma acceso al rancho y condiciones de los caminos. Lleva agua, consulta el clima y evita tocar o extraer plantas.",
+            "en": "Confirm ranch access and road conditions. Bring water, check the weather and avoid touching or removing plants."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verifica acceso actual del rancho, vehículo requerido, señalización ni guía.",
+        "en": "Current ranch access, vehicle requirements, signage and guides are not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Valle de Los Gigantes",
+          "url": "https://www.bajacalifornia.travel/es/actividades/valle-de-los-gigantes",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        }
+      ]
+    },
+    {
+      "id": "guadalupe-wine-museum",
+      "destinationId": "valle-de-guadalupe",
+      "title": {
+        "es": "Museo de la Vid y el Vino",
+        "en": "Museo de la Vid y el Vino"
+      },
+      "description": {
+        "es": "El museo presenta la historia y cultura vitivinícola de Baja California mediante exposiciones permanentes y temporales. Su sitio también describe degustaciones de casas regionales.",
+        "en": "The museum presents Baja California’s wine history and culture through permanent and temporary exhibitions. Its website also describes tastings from regional producers."
+      },
+      "area": {
+        "es": "Ruta del Vino, Valle de Guadalupe",
+        "en": "Wine route, Valle de Guadalupe"
+      },
+      "interests": [
+        "Learning & workshops",
+        "Food & flavours",
+        "Culture & traditions"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Confirma las exposiciones y si deseas una visita con degustación o solo el recorrido cultural.",
+            "en": "Confirm the exhibitions and whether you want a tasting visit or only the cultural exhibits."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se verifican exposiciones vigentes, degustaciones, idioma del recorrido ni accesibilidad.",
+        "en": "Current exhibitions, tastings, tour language and accessibility are not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Quiénes somos: Museo de la Vid y el Vino",
+          "url": "https://museodelavidyelvinobc.com/quienes-somos",
+          "publisher": "Museo de la Vid y el Vino de Baja California, A.C."
+        }
+      ]
+    },
+    {
+      "id": "guadalupe-cetto",
+      "destinationId": "valle-de-guadalupe",
+      "title": {
+        "es": "L.A. Cetto: experiencias en Valle de Guadalupe",
+        "en": "L.A. Cetto: Valle de Guadalupe experiences"
+      },
+      "description": {
+        "es": "L.A. Cetto publica degustaciones y experiencias con recorridos por viñedos o bodega en su sede de Valle de Guadalupe. Cada formato tiene inclusiones distintas.",
+        "en": "L.A. Cetto publishes tastings and vineyard or winery tour experiences at its Valle de Guadalupe venue. Inclusions differ by experience."
+      },
+      "area": {
+        "es": "Sede Valle de Guadalupe, no las boutiques de otras ciudades",
+        "en": "Valle de Guadalupe venue, not the boutiques in other cities"
+      },
+      "interests": [
+        "Food & flavours",
+        "Learning & workshops"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Confirma la sede, el formato y la reserva antes de viajar. Si habrá degustación, organiza transporte sin conducir después de beber.",
+            "en": "Confirm the venue, experience format and reservation before traveling. If tasting wine, arrange transport without driving after drinking."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "No se consultó inventario de reservas ni disponibilidad. Tampoco se verifican políticas para menores o acompañantes que no beben.",
+        "en": "Booking inventory and availability were not checked. Policies for minors or non-drinking companions are also unverified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "Experiencias L.A. Cetto",
+          "url": "https://www.lacetto.mx/pages/conoce-los-vinedos-cetto",
+          "publisher": "L.A. Cetto"
+        }
+      ]
+    },
+    {
+      "id": "guadalupe-sinaw-kuatay",
+      "destinationId": "valle-de-guadalupe",
+      "title": {
+        "es": "Centro Ecoturístico Kumiai Siñaw Kuatay",
+        "en": "Siñaw Kuatay Kumiai Ecotourism Center"
+      },
+      "description": {
+        "es": "La ruta oficial del Valle identifica Siñaw Kuatay como una propuesta de la comunidad Kumiai para conocer su historia, tradiciones y cosmovisión.",
+        "en": "The official Valle route identifies Siñaw Kuatay as a Kumiai community initiative for learning about its history, traditions and worldview."
+      },
+      "area": {
+        "es": "Región del Valle de Guadalupe; ubicación de encuentro por confirmar",
+        "en": "Valle de Guadalupe region; meeting location to be confirmed"
+      },
+      "interests": [
+        "Culture & traditions",
+        "Learning & workshops"
+      ],
+      "checks": [
+        {
+          "text": {
+            "es": "Coordina primero con el centro qué experiencias recibe la comunidad y respeta sus indicaciones sobre acceso, fotografías y participación.",
+            "en": "First coordinate with the center which experiences the community is welcoming, and follow its guidance on access, photography and participation."
+          },
+          "basis": "editorial_planning_advice"
+        }
+      ],
+      "coverageGaps": {
+        "es": "Solo se verificó la referencia turística oficial. No se verificaron contacto directo de la comunidad, ubicación precisa, programa, reservación ni acceso.",
+        "en": "Only the official tourism reference was verified. A direct community contact, precise location, program, booking and access were not verified."
+      },
+      "checkedOn": "2026-11-10",
+      "reviewStatus": "reviewed",
+      "liveOperationsVerified": false,
+      "sources": [
+        {
+          "label": "El Valle de Guadalupe",
+          "url": "https://www.bajacalifornia.travel/es/rutas/el-valle-de-guadalupe",
+          "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California"
+        }
+      ]
+    }
+  ]
+}

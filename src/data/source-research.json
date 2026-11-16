@@ -1,0 +1,1207 @@
+{
+  "schema_version": "1.0",
+  "catalog_name": "México Edit: Baja California verified experience guide",
+  "retrieved_on": "2026-11-10",
+  "languages": [
+    "es",
+    "en"
+  ],
+  "verification_scope": {
+    "es": "Se verificó que las fuentes públicas identifican los lugares y describen estas experiencias. No es verificación de apertura, disponibilidad, seguridad, calidad, habilitación profesional ni accesibilidad para una fecha de viaje.",
+    "en": "Public sources were checked for place identity and described experiences. This does not verify opening, availability, safety, quality, professional licensing or accessibility for a travel date."
+  },
+  "editorial_policy": {
+    "no_prices": true,
+    "no_live_availability_claims": true,
+    "no_exact_opening_hours": true,
+    "no_exact_travel_times": true,
+    "no_health_claims": true,
+    "no_access_guarantees": true,
+    "no_booking_or_purchase_actions": true,
+    "translations": "English copy is an editorial translation, not an official English statement. Proper names are preserved.",
+    "practical_checks": "Editorial planning advice is labeled separately from published visitor rules. No practical check has been performed for a specific traveler or date."
+  },
+  "global_pre_visit_check": {
+    "es": "Antes de salir, confirma operación, acceso, reservación, requisitos de participación y necesidades de movilidad directamente con el recinto o autoridad correspondiente. Consulta el pronóstico y los avisos locales para actividades al aire libre.",
+    "en": "Before setting out, confirm operation, access, reservations, participation requirements and mobility needs directly with the venue or relevant authority. Check forecasts and local advisories for outdoor activities."
+  },
+  "sources": [
+    {
+      "id": "cecut",
+      "title": "Centro Cultural Tijuana (CECUT)",
+      "publisher": "Secretaría de Cultura, Sistema de Información Cultural",
+      "url": "https://sic.cultura.gob.mx/ficha.php?estado_id=2&municipio_id=4&table=centro_cultural&table_id=360",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "trompo",
+      "title": "¿Qué es El Trompo?",
+      "publisher": "El Trompo Museo Interactivo Tijuana",
+      "url": "https://www.eltrompo.org/informacion",
+      "source_type": "venue_official",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "bufadora",
+      "title": "Visita La Bufadora",
+      "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California",
+      "url": "https://www.bajacalifornia.travel/es/actividades/visita-la-bufadora",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "riviera-museum",
+      "title": "Museo de Historia de Ensenada",
+      "publisher": "Secretaría de Cultura, Sistema de Información Cultural",
+      "url": "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=600",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check.",
+      "source_updated_on": "2022-09-21"
+    },
+    {
+      "id": "mexicali-tourism",
+      "title": "Visita Mexicali",
+      "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California",
+      "url": "https://www.bajacalifornia.travel/es/destinos/mexicali",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "mexicali-route",
+      "title": "Ruta Centro Histórico Mexicali",
+      "publisher": "Gobierno del Estado de Baja California",
+      "url": "https://www.bajacalifornia.gob.mx/rutacentrohistoricomexicali",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "sol-del-nino",
+      "title": "Museo Sol del Niño",
+      "publisher": "Secretaría de Cultura, Sistema de Información Cultural",
+      "url": "https://sic.cultura.gob.mx/ficha.php?disciplina=&table=museo&table_id=886",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check.",
+      "source_updated_on": "2026-01-22"
+    },
+    {
+      "id": "uabc-museum",
+      "title": "Instituto de Investigaciones Culturales Museo-UABC",
+      "publisher": "Secretaría de Cultura, Sistema de Información Cultural",
+      "url": "https://sic.gob.mx/ficha.php?disciplina=&table=museo&table_id=328",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check.",
+      "source_updated_on": "2025-06-03"
+    },
+    {
+      "id": "rosarito-tourism",
+      "title": "Visita Rosarito",
+      "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California",
+      "url": "https://www.bajacalifornia.travel/es/destinos/rosarito",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "rosarito-city",
+      "title": "Ayuntamiento de Playas de Rosarito Fortalece Atención al Visitante y Promoción Turística",
+      "publisher": "Ayuntamiento de Playas de Rosarito",
+      "url": "https://www.rosarito.gob.mx/10mo/nota/COMROS-2025-365",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check.",
+      "source_published_on": "2025-07-29"
+    },
+    {
+      "id": "tecate-sectur",
+      "title": "Tecate, Baja California",
+      "publisher": "Secretaría de Turismo",
+      "url": "https://www.sectur.gob.mx/gobmx/pueblos-magicos/tecate-baja-california/",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check.",
+      "source_updated_on": "2019-06-24"
+    },
+    {
+      "id": "tecate-city",
+      "title": "Día del Pueblo en el Parque Miguel Hidalgo",
+      "publisher": "Gobierno de Tecate",
+      "url": "https://tecate.gob.mx/noticias/373",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check.",
+      "source_published_on": "2026-10-14"
+    },
+    {
+      "id": "vallecito",
+      "title": "El Vallecito",
+      "publisher": "Instituto Nacional de Antropología e Historia",
+      "url": "https://lugares.inah.gob.mx/es/node/4406",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "vallecito-visit",
+      "title": "El Vallecito: información para la visita",
+      "publisher": "Instituto Nacional de Antropología e Historia",
+      "url": "https://lugares.inah.gob.mx/es/node/5444",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "rumorosa",
+      "title": "Sendero Interpretativo La Rumorosa",
+      "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California",
+      "url": "https://www.bajacalifornia.travel/es/actividades/sendero-interpretativo-la-rumorosa",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "san-quintin-tourism",
+      "title": "Visita San Quintín",
+      "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California",
+      "url": "https://www.bajacalifornia.travel/es/destinos/san-quintin",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "san-quintin-wetlands",
+      "title": "Los Humedales de San Quintín",
+      "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California",
+      "url": "https://www.bajacalifornia.travel/es/actividades/los-humedales-de-san-quintin",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "san-felipe-tourism",
+      "title": "Visita San Felipe",
+      "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California",
+      "url": "https://www.bajacalifornia.travel/es/destinos/san-felipe",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "gigantes",
+      "title": "Valle de Los Gigantes",
+      "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California",
+      "url": "https://www.bajacalifornia.travel/es/actividades/valle-de-los-gigantes",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "wine-museum",
+      "title": "Quiénes somos: Museo de la Vid y el Vino",
+      "publisher": "Museo de la Vid y el Vino de Baja California, A.C.",
+      "url": "https://museodelavidyelvinobc.com/quienes-somos",
+      "source_type": "venue_official",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "cetto",
+      "title": "Experiencias L.A. Cetto",
+      "publisher": "L.A. Cetto",
+      "url": "https://www.lacetto.mx/pages/conoce-los-vinedos-cetto",
+      "source_type": "venue_official",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    },
+    {
+      "id": "guadalupe-route",
+      "title": "El Valle de Guadalupe",
+      "publisher": "Fideicomiso Público para la Promoción Turística del Estado de Baja California",
+      "url": "https://www.bajacalifornia.travel/es/rutas/el-valle-de-guadalupe",
+      "source_type": "government",
+      "retrieved_on": "2026-11-10",
+      "retrieval_method": "public_web_page_read",
+      "language": "es",
+      "verified_scope": "Place identity and described experience only; no live access or availability check."
+    }
+  ],
+  "destinations": [
+    {
+      "id": "tijuana",
+      "name": "Tijuana",
+      "guide_focus": {
+        "es": "Cultura e interacción científica, con dos recintos para organizar la visita.",
+        "en": "Culture and hands-on science, centered on two venues."
+      },
+      "experiences": [
+        {
+          "id": "tijuana-cecut",
+          "name": {
+            "es": "CECUT: Museo de las Californias y El Cubo",
+            "en": "CECUT: Museo de las Californias and El Cubo"
+          },
+          "category": "culture",
+          "area": {
+            "es": "Zona Río, Tijuana",
+            "en": "Zona Río, Tijuana"
+          },
+          "summary": {
+            "es": "El Centro Cultural Tijuana reúne el Museo de las Californias, las salas de El Cubo y el Domo IMAX en un mismo complejo cultural.",
+            "en": "Centro Cultural Tijuana brings together Museo de las Californias, El Cubo exhibition galleries and the IMAX dome in one cultural complex."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Elige las salas que te interesan y confirma la programación y las condiciones de entrada de cada espacio.",
+                "en": "Choose your preferred spaces and check each venue’s program and entry arrangements."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "cecut"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verificaron exposiciones vigentes, funciones, accesibilidad ni recorridos en inglés.",
+            "en": "Current exhibitions, screenings, accessibility and English-language tours were not verified."
+          },
+          "interests": [
+            "Culture & traditions",
+            "Learning & workshops"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "tijuana-trompo",
+          "name": {
+            "es": "El Trompo Museo Interactivo",
+            "en": "El Trompo Interactive Museum"
+          },
+          "category": "family_science",
+          "area": {
+            "es": "Tijuana",
+            "en": "Tijuana"
+          },
+          "summary": {
+            "es": "Un museo de ciencia y tecnología que propone aprender mediante la experimentación, pensado para niñas, niños, familias y visitantes.",
+            "en": "A science and technology museum built around learning through experimentation, with children, families and visitors in mind."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Confirma qué salas y actividades estarán operando y las recomendaciones de edad antes de organizar la visita.",
+                "en": "Check which galleries and activities will be operating and ask about age guidance before planning your visit."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "trompo"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verificó el funcionamiento de cada interactivo ni apoyos de accesibilidad.",
+            "en": "Individual exhibit operation and accessibility support were not verified."
+          },
+          "interests": [
+            "Learning & workshops"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        }
+      ],
+      "coverage_gaps": {
+        "es": "Este pase no verifica taquerías, Pasaje Rodríguez, vida nocturna ni condiciones de cruces fronterizos.",
+        "en": "This pass does not verify taquerías, Pasaje Rodríguez, nightlife or border-crossing conditions."
+      }
+    },
+    {
+      "id": "ensenada",
+      "name": "Ensenada",
+      "guide_focus": {
+        "es": "Un contraste entre paisaje marino e historia local.",
+        "en": "A contrast between coastal scenery and local history."
+      },
+      "experiences": [
+        {
+          "id": "ensenada-bufadora",
+          "name": {
+            "es": "La Bufadora",
+            "en": "La Bufadora"
+          },
+          "category": "coastal_nature",
+          "area": {
+            "es": "Al sur de Ensenada",
+            "en": "South of Ensenada"
+          },
+          "summary": {
+            "es": "Una formación costera reconocida por la expulsión de agua del mar; la oficina estatal de turismo también describe actividades de senderismo y kayak en la zona.",
+            "en": "A coastal formation known for its seawater spray; the state tourism office also describes hiking and kayaking activities in the area."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Confirma el acceso y las condiciones del mar. Para kayak, verifica guía, equipo y restricciones antes de salir.",
+                "en": "Confirm access and sea conditions. For kayaking, check the guide, equipment and restrictions before setting out."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "bufadora"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verificaron acceso del día, oleaje, operador, salida de kayak ni intensidad del fenómeno natural.",
+            "en": "Same-day access, sea state, an operator, kayak departure and the intensity of the natural display were not verified."
+          },
+          "interests": [
+            "Nature & landscapes"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "ensenada-riviera",
+          "name": {
+            "es": "Riviera y Museo de Historia de Ensenada",
+            "en": "Riviera and Museo de Historia de Ensenada"
+          },
+          "category": "history",
+          "area": {
+            "es": "Centro de Ensenada",
+            "en": "Central Ensenada"
+          },
+          "summary": {
+            "es": "El museo ocupa parte del complejo Riviera, construido en 1930, y aborda historia indígena, arte rupestre, prehistoria, exploración, misiones y minería.",
+            "en": "The museum occupies part of the Riviera complex, built in 1930, with subjects spanning Indigenous history, rock art, prehistory, exploration, missions and mining."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Confirma por separado el acceso al museo, las áreas del Riviera y la posibilidad de una visita guiada.",
+                "en": "Check access to the museum and Riviera spaces separately, along with the possibility of a guided visit."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "riviera-museum"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "El registro cultural se actualizó en 2022; no confirma las salas o servicios disponibles hoy.",
+            "en": "The cultural registry was updated in 2022 and does not confirm today’s available galleries or services."
+          },
+          "interests": [
+            "Culture & traditions",
+            "Learning & workshops",
+            "Cities & architecture"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        }
+      ],
+      "coverage_gaps": {
+        "es": "No se verifican avistamiento de ballenas, excursiones marítimas, surf, operadores ni traslados desde cruceros. Valle de Guadalupe tiene una ficha propia.",
+        "en": "Whale watching, boat excursions, surfing, operators and cruise transfers are not verified. Valle de Guadalupe has its own entry."
+      }
+    },
+    {
+      "id": "mexicali",
+      "name": "Mexicali",
+      "guide_focus": {
+        "es": "Historia fronteriza y dos miradas al conocimiento: ciencia y cultura regional.",
+        "en": "Border history and two approaches to learning: science and regional culture."
+      },
+      "experiences": [
+        {
+          "id": "mexicali-chinesca",
+          "name": {
+            "es": "La Chinesca y el Centro Histórico",
+            "en": "La Chinesca and the historic center"
+          },
+          "category": "culture",
+          "area": {
+            "es": "Centro Histórico de Mexicali",
+            "en": "Historic center of Mexicali"
+          },
+          "summary": {
+            "es": "La Chinesca permite acercarse a la presencia china en la historia de Mexicali. La ruta oficial del centro incluye el Callejón Chinesca y otros edificios históricos.",
+            "en": "La Chinesca offers an introduction to Chinese heritage in Mexicali. The official historic-center route includes Callejón Chinesca and other historic buildings."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Distingue el paseo por el barrio de los recorridos interiores. Confirma operador, punto de encuentro y acceso si quieres visitar túneles.",
+                "en": "Distinguish a neighborhood walk from indoor tours. Confirm the operator, meeting point and access if you want to visit tunnels."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "mexicali-tourism",
+            "mexicali-route"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verificaron visitas subterráneas, salidas de autobús, guía ni accesibilidad.",
+            "en": "Underground visits, bus departures, guides and accessibility were not verified."
+          },
+          "interests": [
+            "Culture & traditions",
+            "Learning & workshops"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "mexicali-sol-del-nino",
+          "name": {
+            "es": "Museo Sol del Niño",
+            "en": "Museo Sol del Niño"
+          },
+          "category": "family_science",
+          "area": {
+            "es": "Mexicali",
+            "en": "Mexicali"
+          },
+          "summary": {
+            "es": "El museo propone experiencias interactivas sobre ciencia, tecnología y medio ambiente en el edificio histórico de La Jabonera del Pacífico.",
+            "en": "The museum presents interactive science, technology and environmental learning in the historic La Jabonera del Pacífico building."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Revisa la programación y confirma las salas e interactivos disponibles para la fecha de tu visita.",
+                "en": "Review the program and confirm the galleries and interactive exhibits available on your visit date."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "sol-del-nino"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verificó el estado de los interactivos ni las funciones de cine.",
+            "en": "Interactive exhibit condition and film screenings were not verified."
+          },
+          "interests": [
+            "Learning & workshops"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "mexicali-uabc",
+          "name": {
+            "es": "Instituto de Investigaciones Culturales Museo-UABC",
+            "en": "Instituto de Investigaciones Culturales Museo-UABC"
+          },
+          "category": "history",
+          "area": {
+            "es": "Colonia Nueva, Mexicali",
+            "en": "Colonia Nueva, Mexicali"
+          },
+          "summary": {
+            "es": "Una visita para explorar el desierto, la migración, la frontera y las culturas regionales a través de las colecciones y salas del museo universitario.",
+            "en": "Explore the desert, migration, the border and regional cultures through the collections and galleries of this university museum."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Confirma qué exposiciones se pueden visitar y si hay recorridos guiados para tu grupo.",
+                "en": "Confirm which exhibitions can be visited and whether guided visits are offered for your group."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "uabc-museum"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verificaron exposiciones temporales ni disponibilidad de guías.",
+            "en": "Temporary exhibitions and guide availability were not verified."
+          },
+          "interests": [
+            "Culture & traditions",
+            "Learning & workshops",
+            "Cities & architecture"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        }
+      ],
+      "coverage_gaps": {
+        "es": "No se verifican excursiones a Laguna Salada, Río Hardy o dunas. Para planes al aire libre, consulta pronóstico y avisos locales.",
+        "en": "Excursions to Laguna Salada, Río Hardy or the dunes are not verified. For outdoor plans, check forecasts and local advisories."
+      }
+    },
+    {
+      "id": "rosarito",
+      "name": "Rosarito",
+      "guide_focus": {
+        "es": "Cocina de Puerto Nuevo, artesanías y costa del Pacífico.",
+        "en": "Puerto Nuevo food traditions, crafts and the Pacific coast."
+      },
+      "experiences": [
+        {
+          "id": "rosarito-puerto-nuevo",
+          "name": {
+            "es": "Puerto Nuevo: tradición de langosta",
+            "en": "Puerto Nuevo: lobster tradition"
+          },
+          "category": "food_culture",
+          "area": {
+            "es": "Puerto Nuevo, municipio de Playas de Rosarito",
+            "en": "Puerto Nuevo, Playas de Rosarito municipality"
+          },
+          "summary": {
+            "es": "Puerto Nuevo es conocido por su langosta, tradicionalmente acompañada de frijoles, arroz y tortillas de harina. Es una parada gastronómica, no un restaurante único.",
+            "en": "Puerto Nuevo is known for lobster traditionally served with beans, rice and flour tortillas. It is a dining destination, rather than a single restaurant."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Elige un restaurante y confirma reservación, ingredientes y alternativas alimentarias directamente con el establecimiento.",
+                "en": "Choose a restaurant and check reservations, ingredients and dietary alternatives directly with the venue."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "rosarito-tourism",
+            "rosarito-city"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se recomienda ni verifica un restaurante específico, menú o disponibilidad de producto.",
+            "en": "No specific restaurant, menu or product availability is recommended or verified."
+          },
+          "interests": [
+            "Food & flavours",
+            "Culture & traditions"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "rosarito-popotla",
+          "name": {
+            "es": "Bulevar Artesanal Popotla",
+            "en": "Bulevar Artesanal Popotla"
+          },
+          "category": "arts_crafts",
+          "area": {
+            "es": "Corredor Popotla, Playas de Rosarito",
+            "en": "Popotla corridor, Playas de Rosarito"
+          },
+          "summary": {
+            "es": "El corredor artesanal de Popotla reúne expresiones de arte y oficios locales; la promoción oficial destaca piezas de pintura, hierro y barro en la zona.",
+            "en": "Popotla’s craft corridor brings together local art and crafts; official tourism material highlights painting, ironwork and pottery in the area."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Confirma los talleres o galerías que quieres visitar y pide permiso antes de fotografiar personas u obras.",
+                "en": "Check the workshops or galleries you want to visit and ask permission before photographing people or artworks."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "rosarito-city",
+            "rosarito-tourism"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verificaron talleres concretos, demostraciones, horarios ni inventario.",
+            "en": "Specific workshops, demonstrations, opening schedules and inventory were not verified."
+          },
+          "interests": [
+            "Folklore & crafts",
+            "Culture & traditions"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "rosarito-surf",
+          "name": {
+            "es": "Surf en la zona del Muelle de Rosarito",
+            "en": "Surf around Muelle de Rosarito"
+          },
+          "category": "water_activity",
+          "area": {
+            "es": "Frente de playa de Rosarito",
+            "en": "Rosarito beachfront"
+          },
+          "summary": {
+            "es": "La oficina estatal de turismo incluye el entorno del Muelle de Rosarito entre sus puntos para practicar surf y menciona clases con instructores locales.",
+            "en": "The state tourism office lists the area around Muelle de Rosarito as a surfing spot and mentions lessons with local instructors."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Antes de entrar al agua, consulta banderas, oleaje y corrientes. Pide a un instructor evaluar el punto y tu nivel; una ficha turística no garantiza condiciones aptas.",
+                "en": "Before entering the water, check flags, waves and currents. Ask an instructor to assess the spot and your level; a tourism listing does not guarantee suitable conditions."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "rosarito-tourism"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verifican condiciones del mar, clase, instructor, equipo ni acceso al muelle.",
+            "en": "Sea conditions, lessons, instructors, equipment and access onto the pier are not verified."
+          },
+          "interests": [
+            "Water activities",
+            "Adventure"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        }
+      ],
+      "coverage_gaps": {
+        "es": "No se verifican buceo en el arrecife artificial, rappel, actividades motorizadas ni acceso a playas privadas.",
+        "en": "Artificial-reef diving, rappelling, motorized activities and access to private beaches are not verified."
+      }
+    },
+    {
+      "id": "tecate",
+      "name": "Tecate",
+      "guide_focus": {
+        "es": "Un paseo urbano y dos salidas por la región de La Rumorosa.",
+        "en": "An urban stroll and two outings in the La Rumorosa area."
+      },
+      "experiences": [
+        {
+          "id": "tecate-hidalgo",
+          "name": {
+            "es": "Parque Miguel Hidalgo",
+            "en": "Parque Miguel Hidalgo"
+          },
+          "category": "town_walk",
+          "area": {
+            "es": "Centro de Tecate",
+            "en": "Central Tecate"
+          },
+          "summary": {
+            "es": "El Parque Miguel Hidalgo es un espacio central de convivencia de Tecate. Puede ser el punto de partida para conocer el centro y su tradición panadera.",
+            "en": "Parque Miguel Hidalgo is a central gathering place in Tecate. It can anchor a walk through the town center and an introduction to its baking tradition."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Consulta la agenda municipal si buscas un evento y confirma por separado la panadería que quieras visitar.",
+                "en": "Check the municipal calendar if you want an event and separately confirm the bakery you plan to visit."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "tecate-sectur",
+            "tecate-city"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verifican eventos futuros, panaderías concretas ni servicios del parque.",
+            "en": "Future events, specific bakeries and park services are not verified."
+          },
+          "interests": [
+            "Pueblos Mágicos",
+            "Cities & architecture"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "tecate-vallecito",
+          "name": {
+            "es": "Zona Arqueológica El Vallecito",
+            "en": "El Vallecito archaeological site"
+          },
+          "category": "archaeology",
+          "area": {
+            "es": "Ejido Jacumé, municipio de Tecate; fuera del centro urbano",
+            "en": "Ejido Jacumé, Tecate municipality; outside the town center"
+          },
+          "summary": {
+            "es": "El Vallecito conserva pinturas rupestres en abrigos rocosos de la Sierra de Juárez, entre ellos El Diablito y El Tiburón.",
+            "en": "El Vallecito preserves rock paintings in Sierra de Juárez rock shelters, including El Diablito and El Tiburón."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "INAH indica acceso por terracería y prohíbe mascotas, alimentos, fumar y fotografía con flash. Confirma las condiciones de visita antes de desplazarte.",
+                "en": "INAH lists a dirt-road approach and prohibits pets, food, smoking and flash photography. Confirm visiting conditions before traveling."
+              },
+              "basis": "published_visitor_rules",
+              "source_ids": [
+                "vallecito-visit"
+              ]
+            }
+          ],
+          "source_ids": [
+            "vallecito",
+            "vallecito-visit"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se confirma estado de la terracería, acceso del día, recorrido accesible o visita de solsticio.",
+            "en": "Dirt-road condition, same-day access, an accessible route and solstice visits are not confirmed."
+          },
+          "interests": [
+            "Archaeology",
+            "Culture & traditions"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "tecate-rumorosa",
+          "name": {
+            "es": "Sendero Interpretativo La Rumorosa",
+            "en": "La Rumorosa Interpretive Trail"
+          },
+          "category": "hiking",
+          "area": {
+            "es": "La Rumorosa, municipio de Tecate; fuera del centro urbano",
+            "en": "La Rumorosa, Tecate municipality; outside the town center"
+          },
+          "summary": {
+            "es": "Un sendero interpretativo en el norte de la Sierra de Juárez, con paisajes rocosos y miradores. La fuente oficial describe variantes para caminar o recorrer en bicicleta.",
+            "en": "An interpretive trail in the northern Sierra de Juárez, with rocky landscapes and viewpoints. The official source describes walking and cycling variants."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Confirma la variante, dificultad, clima, acceso y necesidad de guía. Lleva agua y calzado adecuado; no asumas que todas las variantes sirven para cualquier persona.",
+                "en": "Check the route variant, difficulty, weather, access and need for a guide. Bring water and suitable footwear; do not assume every variant suits every visitor."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "rumorosa"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verificó el estado del sendero, cobertura móvil, guía ni accesibilidad física.",
+            "en": "Trail condition, mobile coverage, guides and physical accessibility were not verified."
+          },
+          "interests": [
+            "Nature & landscapes",
+            "Adventure"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        }
+      ],
+      "coverage_gaps": {
+        "es": "No se verifican visitas a la cervecería, Cuchumá, spas o vinícolas. La Rumorosa y El Vallecito no son paradas peatonales del centro de Tecate.",
+        "en": "Brewery visits, Cuchumá, spas and wineries are not verified. La Rumorosa and El Vallecito are not walking stops in central Tecate."
+      }
+    },
+    {
+      "id": "san-quintin",
+      "name": "San Quintín",
+      "guide_focus": {
+        "es": "Bahía, aves y paisaje volcánico, sin extender la visita a todo el municipio.",
+        "en": "Bay, birds and volcanic scenery, without treating the whole municipality as one outing."
+      },
+      "experiences": [
+        {
+          "id": "san-quintin-humedales",
+          "name": {
+            "es": "Humedales de Bahía San Quintín",
+            "en": "Bahía San Quintín wetlands"
+          },
+          "category": "wildlife_nature",
+          "area": {
+            "es": "Bahía San Quintín",
+            "en": "Bahía San Quintín"
+          },
+          "summary": {
+            "es": "Los humedales ofrecen un paisaje para observar aves residentes y migratorias. La fuente oficial también describe recorridos en kayak en este entorno.",
+            "en": "The wetlands offer a setting for observing resident and migratory birds. The official source also describes kayaking in this environment."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Consulta puntos autorizados de acceso, mareas, viento y reglas de conservación. Para kayak, confirma guía y equipo; observa fauna a distancia.",
+                "en": "Check authorized access points, tides, wind and conservation rules. For kayaking, confirm a guide and equipment; observe wildlife from a distance."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "san-quintin-wetlands"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verifican avistamientos, rutas navegables del día, operador ni permisos específicos.",
+            "en": "Sightings, same-day navigable routes, operators and specific permits are not verified."
+          },
+          "interests": [
+            "Wildlife",
+            "Nature & landscapes",
+            "Water activities"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "san-quintin-monte-ceniza",
+          "name": {
+            "es": "Monte Ceniza y paisaje volcánico",
+            "en": "Monte Ceniza and the volcanic landscape"
+          },
+          "category": "hiking",
+          "area": {
+            "es": "Entorno de la bahía de San Quintín",
+            "en": "San Quintín bay area"
+          },
+          "summary": {
+            "es": "Monte Ceniza es una de las formaciones basálticas destacadas en la guía estatal, dentro del paisaje de volcanes extintos junto a la costa del Pacífico.",
+            "en": "Monte Ceniza is one of the basalt formations highlighted by the state guide, within the extinct-volcano landscape beside the Pacific coast."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Confirma el acceso permitido, la ruta y las condiciones del terreno con una fuente local. Evita salir de caminos autorizados y prepara agua y protección solar.",
+                "en": "Confirm permitted access, your route and ground conditions with a local source. Stay on authorized paths and prepare water and sun protection."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "san-quintin-tourism"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verifican paso por predios, sendero señalizado, guía, accesibilidad ni mirador abierto.",
+            "en": "Property access, a marked trail, guides, accessibility and an open viewpoint are not verified."
+          },
+          "interests": [
+            "Nature & landscapes",
+            "Adventure"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        }
+      ],
+      "coverage_gaps": {
+        "es": "Se omiten Bahía de los Ángeles, Cataviña y San Pedro Mártir para no confundir distancias dentro del municipio. No se verifican visitas a granjas de ostión ni excursiones a La Lobera.",
+        "en": "Bahía de los Ángeles, Cataviña and San Pedro Mártir are omitted to avoid conflating distances within the municipality. Oyster-farm visits and La Lobera excursions are not verified."
+      }
+    },
+    {
+      "id": "san-felipe",
+      "name": "San Felipe",
+      "guide_focus": {
+        "es": "Malecón frente al Golfo de California y cardones del desierto.",
+        "en": "A Gulf of California waterfront and desert cardón cacti."
+      },
+      "experiences": [
+        {
+          "id": "san-felipe-malecon",
+          "name": {
+            "es": "Malecón de San Felipe",
+            "en": "San Felipe Malecón"
+          },
+          "category": "waterfront_walk",
+          "area": {
+            "es": "Frente marítimo de San Felipe",
+            "en": "San Felipe waterfront"
+          },
+          "summary": {
+            "es": "El malecón es un punto para pasear frente al Golfo de California y contemplar el amanecer. La guía estatal también menciona galerías y artesanías locales.",
+            "en": "The malecón is a place to stroll beside the Gulf of California and watch the sunrise. The state guide also mentions local galleries and crafts."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Consulta mareas y avisos locales si bajas a la playa. El paseo por el malecón no equivale a una recomendación de baño.",
+                "en": "Check tides and local advisories if you go onto the beach. A waterfront walk is not a swimming recommendation."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "san-felipe-tourism"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verifican condiciones de baño, servicios de playa ni galerías específicas.",
+            "en": "Swimming conditions, beach services and specific galleries are not verified."
+          },
+          "interests": [
+            "Beaches",
+            "Cities & architecture"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "san-felipe-gigantes",
+          "name": {
+            "es": "Valle de los Gigantes",
+            "en": "Valle de los Gigantes"
+          },
+          "category": "desert_nature",
+          "area": {
+            "es": "Rancho Punta Estrella, al sur de San Felipe",
+            "en": "Rancho Punta Estrella, south of San Felipe"
+          },
+          "summary": {
+            "es": "Un paisaje de grandes cardones y otras cactáceas en Rancho Punta Estrella. La descripción turística contempla recorridos a pie o en automóvil.",
+            "en": "A landscape of large cardón cacti and other cactus species at Rancho Punta Estrella. The tourism description includes walking and driving visits."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Confirma acceso al rancho y condiciones de los caminos. Lleva agua, consulta el clima y evita tocar o extraer plantas.",
+                "en": "Confirm ranch access and road conditions. Bring water, check the weather and avoid touching or removing plants."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "gigantes"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verifica acceso actual del rancho, vehículo requerido, señalización ni guía.",
+            "en": "Current ranch access, vehicle requirements, signage and guides are not verified."
+          },
+          "interests": [
+            "Nature & landscapes"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        }
+      ],
+      "coverage_gaps": {
+        "es": "No se verifican Puertecitos, pesca, paseos marítimos o actividades con fauna. No se ofrecen avistamientos de vaquita marina.",
+        "en": "Puertecitos, fishing, boat trips and wildlife activities are not verified. No vaquita sightings are offered."
+      }
+    },
+    {
+      "id": "valle-de-guadalupe",
+      "name": "Valle de Guadalupe",
+      "guide_focus": {
+        "es": "Historia del vino, una bodega identificada y un acercamiento respetuoso a la cultura Kumiai.",
+        "en": "Wine history, an identified winery and a respectful introduction to Kumiai culture."
+      },
+      "experiences": [
+        {
+          "id": "guadalupe-wine-museum",
+          "name": {
+            "es": "Museo de la Vid y el Vino",
+            "en": "Museo de la Vid y el Vino"
+          },
+          "category": "wine_history",
+          "area": {
+            "es": "Ruta del Vino, Valle de Guadalupe",
+            "en": "Wine route, Valle de Guadalupe"
+          },
+          "summary": {
+            "es": "El museo presenta la historia y cultura vitivinícola de Baja California mediante exposiciones permanentes y temporales. Su sitio también describe degustaciones de casas regionales.",
+            "en": "The museum presents Baja California’s wine history and culture through permanent and temporary exhibitions. Its website also describes tastings from regional producers."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Confirma las exposiciones y si deseas una visita con degustación o solo el recorrido cultural.",
+                "en": "Confirm the exhibitions and whether you want a tasting visit or only the cultural exhibits."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "wine-museum"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se verifican exposiciones vigentes, degustaciones, idioma del recorrido ni accesibilidad.",
+            "en": "Current exhibitions, tastings, tour language and accessibility are not verified."
+          },
+          "interests": [
+            "Learning & workshops",
+            "Food & flavours",
+            "Culture & traditions"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "guadalupe-cetto",
+          "name": {
+            "es": "L.A. Cetto: experiencias en Valle de Guadalupe",
+            "en": "L.A. Cetto: Valle de Guadalupe experiences"
+          },
+          "category": "winery",
+          "area": {
+            "es": "Sede Valle de Guadalupe, no las boutiques de otras ciudades",
+            "en": "Valle de Guadalupe venue, not the boutiques in other cities"
+          },
+          "summary": {
+            "es": "L.A. Cetto publica degustaciones y experiencias con recorridos por viñedos o bodega en su sede de Valle de Guadalupe. Cada formato tiene inclusiones distintas.",
+            "en": "L.A. Cetto publishes tastings and vineyard or winery tour experiences at its Valle de Guadalupe venue. Inclusions differ by experience."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Confirma la sede, el formato y la reserva antes de viajar. Si habrá degustación, organiza transporte sin conducir después de beber.",
+                "en": "Confirm the venue, experience format and reservation before traveling. If tasting wine, arrange transport without driving after drinking."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "cetto"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "No se consultó inventario de reservas ni disponibilidad. Tampoco se verifican políticas para menores o acompañantes que no beben.",
+            "en": "Booking inventory and availability were not checked. Policies for minors or non-drinking companions are also unverified."
+          },
+          "interests": [
+            "Food & flavours",
+            "Learning & workshops"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        },
+        {
+          "id": "guadalupe-sinaw-kuatay",
+          "name": {
+            "es": "Centro Ecoturístico Kumiai Siñaw Kuatay",
+            "en": "Siñaw Kuatay Kumiai Ecotourism Center"
+          },
+          "category": "community_culture",
+          "area": {
+            "es": "Región del Valle de Guadalupe; ubicación de encuentro por confirmar",
+            "en": "Valle de Guadalupe region; meeting location to be confirmed"
+          },
+          "summary": {
+            "es": "La ruta oficial del Valle identifica Siñaw Kuatay como una propuesta de la comunidad Kumiai para conocer su historia, tradiciones y cosmovisión.",
+            "en": "The official Valle route identifies Siñaw Kuatay as a Kumiai community initiative for learning about its history, traditions and worldview."
+          },
+          "practical_checks": [
+            {
+              "text": {
+                "es": "Coordina primero con el centro qué experiencias recibe la comunidad y respeta sus indicaciones sobre acceso, fotografías y participación.",
+                "en": "First coordinate with the center which experiences the community is welcoming, and follow its guidance on access, photography and participation."
+              },
+              "basis": "editorial_planning_advice"
+            }
+          ],
+          "source_ids": [
+            "guadalupe-route"
+          ],
+          "retrieved_on": "2026-11-10",
+          "verification_status": "identity_and_described_experience_verified",
+          "live_operations_verified": false,
+          "coverage_gaps": {
+            "es": "Solo se verificó la referencia turística oficial. No se verificaron contacto directo de la comunidad, ubicación precisa, programa, reservación ni acceso.",
+            "en": "Only the official tourism reference was verified. A direct community contact, precise location, program, booking and access were not verified."
+          },
+          "interests": [
+            "Culture & traditions",
+            "Learning & workshops"
+          ],
+          "summary_basis": "source_supported_editorial_summary"
+        }
+      ],
+      "coverage_gaps": {
+        "es": "No se verifican restaurantes, hospedajes, traslados, vendimias ni disponibilidad. La experiencia comunitaria requiere confirmación directa antes de incorporarse a un itinerario cerrado.",
+        "en": "Restaurants, lodging, transfers, harvest events and availability are not verified. The community experience needs direct confirmation before inclusion in a fixed itinerary."
+      }
+    }
+  ],
+  "coverage_summary": {
+    "destination_count": 8,
+    "experience_count": 20,
+    "source_count": 22,
+    "live_operation_checks": 0,
+    "all_destinations_have_two_or_more_named_experiences": true
+  }
+}
