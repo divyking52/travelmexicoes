@@ -1303,34 +1303,300 @@ button.sim-adjust-days-btn:hover,
   background: var(--mmw-forest-dark);
 }
 
-/* Responsive Breakpoints */
+/* ==========================================================================
+   Responsive — mobile-first refinements aligned with travelmexico.travel
+   ========================================================================== */
 @media (max-width: 980px) {
+  .mmw-section {
+    width: min(1200px, 92%);
+    padding-block: 1.5rem 3rem;
+  }
+
   .mmw-grid {
     grid-template-columns: 1fr;
+    gap: 18px;
   }
+
   .mmw-scenic-stage {
-    min-height: 400px;
+    min-height: 360px;
+    padding: 24px 20px;
+  }
+
+  .mmw-header-title {
+    font-size: clamp(2.35rem, 6vw, 3.25rem);
+  }
+
+  .mmw-creator-title {
+    font-size: clamp(1.75rem, 4vw, 2.1rem);
+  }
+
+  .mmw-experiences-grid {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   }
 }
 
-@media (max-width: 640px) {
-  .mmw-pills-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+@media (max-width: 700px) {
+  .mmw-section {
+    width: min(1200px, 100%);
+    padding-inline: 16px;
+    padding-block: 1.25rem 2.5rem;
   }
-  .mmw-creator-panel {
+
+  .wrap .mmw-section {
+    padding-inline: 0;
+  }
+
+  .mmw-header {
+    margin-block-end: 1.25rem;
+  }
+
+  .mmw-header-eyebrow {
+    font-size: 0.75rem;
+    margin-block-end: 0.5rem;
+  }
+
+  .mmw-header h1.mmw-header-title,
+  .mmw-header-title {
+    font-size: clamp(2.15rem, 9.5vw, 2.85rem);
+    line-height: 1.02;
+    margin-block-end: 0.65rem;
+  }
+
+  /* Stack brand + accent for cleaner phone reading */
+  .mmw-title-primary,
+  .mmw-title-accent {
+    display: block;
+  }
+
+  .mmw-header-subtitle {
+    font-size: clamp(1.05rem, 4.2vw, 1.25rem);
+    max-width: none;
+    margin-block-end: 0.55rem;
+  }
+
+  .mmw-header-guide {
+    font-size: 0.875rem;
+    max-width: none;
+  }
+
+  .mmw-grid {
+    gap: 14px;
+  }
+
+  .mmw-visual-header {
+    padding: 12px 14px;
+  }
+
+  .mmw-visual-eyebrow {
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    line-height: 1.35;
+  }
+
+  .mmw-scenic-stage {
+    min-height: 280px;
     padding: 20px 16px;
   }
+
+  .mmw-scenic-kicker {
+    font-size: 12.5px;
+  }
+
+  .mmw-scenic-headline {
+    font-size: clamp(1.35rem, 6vw, 1.85rem);
+    margin-block-end: 10px;
+  }
+
+  .mmw-scenic-location {
+    font-size: 11.5px;
+  }
+
+  .mmw-creator-panel {
+    padding: 18px 14px 16px;
+    border-radius: 10px;
+  }
+
+  .mmw-creator-eyebrow {
+    font-size: 10px;
+    letter-spacing: 0.12em;
+  }
+
+  .mmw-creator-title {
+    font-size: clamp(1.65rem, 7vw, 2rem);
+    margin-block-end: 14px;
+  }
+
+  .mmw-label,
+  .mmw-legend {
+    font-size: 13px;
+  }
+
+  .mmw-destination-input,
+  .mmw-textarea {
+    border-radius: 10px;
+    font-size: 16px; /* avoid iOS zoom on focus */
+  }
+
+  .mmw-pills-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .mmw-pill-label {
+    min-height: 44px;
+    padding: 8px 10px;
+    font-size: 11px;
+    gap: 6px;
+  }
+
+  .mmw-pill-text {
+    white-space: normal;
+    line-height: 1.25;
+  }
+
+  .mmw-suggestions-box {
+    padding: 10px;
+  }
+
+  .mmw-actions-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+
+  button.mmw-btn-primary,
+  .mmw-btn-primary,
+  button.mmw-btn-secondary,
+  .mmw-btn-secondary {
+    width: 100%;
+    min-height: 52px;
+    justify-content: center;
+    padding: 14px 18px !important;
+    font-size: 15px !important;
+  }
+
+  button.mmw-btn-primary,
+  .mmw-btn-primary {
+    justify-content: space-between;
+  }
+
+  .mmw-footnote {
+    font-size: 11.5px;
+    line-height: 1.5;
+  }
+
+  .mmw-drawer {
+    margin-block-start: 16px;
+    padding: 16px 14px;
+    border-radius: 10px;
+  }
+
+  .mmw-drawer-header {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+
+  .mmw-drawer-title {
+    font-size: clamp(1.25rem, 5.5vw, 1.5rem);
+  }
+
+  .mmw-close-btn {
+    align-self: flex-start;
+    min-height: 40px;
+  }
+
+  .mmw-experiences-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .mmw-exp-actions {
+    flex-wrap: wrap;
+  }
+
+  .mmw-exp-toggle-btn {
+    min-height: 40px;
+    border-radius: 999px;
+    padding: 8px 14px;
+  }
+
+  .mmw-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+
+  .mmw-toolbar-btn {
+    width: 100%;
+    min-height: 44px;
+    border-radius: 999px;
+    justify-content: center;
+    text-align: center;
+  }
+
   .sim-controls-bar {
     flex-direction: column;
     align-items: stretch;
+    gap: 12px;
   }
+
   .sim-select {
     min-width: 100%;
+  }
+
+  .sim-button-wrap {
+    width: 100%;
+  }
+
+  button.sim-submit-btn,
+  .sim-submit-btn {
+    width: 100% !important;
+    min-height: 48px !important;
   }
 }
 
 @media (max-width: 440px) {
+  .mmw-section {
+    padding-inline: 12px;
+  }
+
+  .mmw-header h1.mmw-header-title,
+  .mmw-header-title {
+    font-size: clamp(1.95rem, 10.5vw, 2.35rem);
+  }
+
+  .mmw-scenic-stage {
+    min-height: 240px;
+  }
+
   .mmw-pills-grid {
     grid-template-columns: 1fr;
+  }
+
+  .mmw-pill-label {
+    font-size: 12px;
+  }
+
+  .mmw-creator-panel {
+    padding: 16px 12px 14px;
+  }
+
+  button.mmw-btn-primary,
+  .mmw-btn-primary {
+    gap: 12px;
+    padding-inline: 16px !important;
+  }
+}
+
+/* Prefer stacked creator form above scenic photo on narrow phones */
+@media (max-width: 700px) {
+  .mmw-grid {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .mmw-creator-panel {
+    order: -1;
   }
 }
